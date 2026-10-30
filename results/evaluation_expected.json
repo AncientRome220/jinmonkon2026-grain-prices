@@ -1,0 +1,317 @@
+{
+  "cropped_relations": {
+    "25": [
+      {
+        "relation_index": 0,
+        "samples": [
+          "c078"
+        ],
+        "target_id": "grain-afcfc995be838c037f583ff5"
+      },
+      {
+        "relation_index": 0,
+        "samples": [
+          "a015"
+        ],
+        "target_id": "grain-bef0e4726bf3e0fcdb140783"
+      }
+    ],
+    "80": []
+  },
+  "jobs": [
+    {
+      "candidates": "data/evaluation/main_r25.jsonl",
+      "execution_settings": {
+        "max_output_tokens": 16000,
+        "prompt_version": "target-grain-prompt-v2"
+      },
+      "expected": {
+        "complete_relation": {
+          "f1": 0.3950617283950617,
+          "fn": 20,
+          "fp": 29,
+          "precision": 0.35555555555555557,
+          "recall": 0.4444444444444444,
+          "tp": 16
+        },
+        "conditional_reading_and_basis_denominator": 21,
+        "correct_rate_basis_on_matched_relationships": 20,
+        "correct_readings_on_matched_relationships": 16,
+        "emitted_relations": 45,
+        "errored_targets": [],
+        "exact_target_relation_sets": 123,
+        "gold_relations": 36,
+        "gold_targets": 150,
+        "invalid_targets": [],
+        "missing_prediction_targets": [],
+        "relationship": {
+          "f1": 0.5185185185185185,
+          "fn": 15,
+          "fp": 24,
+          "precision": 0.4666666666666667,
+          "recall": 0.5833333333333334,
+          "tp": 21
+        },
+        "target_has_valuation": {
+          "f1": 0.7887323943661971,
+          "fn": 4,
+          "fp": 11,
+          "precision": 0.717948717948718,
+          "recall": 0.875,
+          "tn": 107,
+          "tp": 28
+        }
+      },
+      "model": "gpt-6.1-sol",
+      "predictions": "data/evaluation/predictions_gpt-6.1-sol_r25.jsonl",
+      "provider": "openai",
+      "radius": 25
+    },
+    {
+      "candidates": "data/evaluation/main_r25.jsonl",
+      "execution_settings": {
+        "max_output_tokens": 16000,
+        "prompt_version": "target-grain-prompt-v2"
+      },
+      "expected": {
+        "complete_relation": {
+          "f1": 0.44155844155844154,
+          "fn": 19,
+          "fp": 24,
+          "precision": 0.4146341463414634,
+          "recall": 0.4722222222222222,
+          "tp": 17
+        },
+        "conditional_reading_and_basis_denominator": 22,
+        "correct_rate_basis_on_matched_relationships": 20,
+        "correct_readings_on_matched_relationships": 18,
+        "emitted_relations": 41,
+        "errored_targets": [],
+        "exact_target_relation_sets": 129,
+        "gold_relations": 36,
+        "gold_targets": 150,
+        "invalid_targets": [],
+        "missing_prediction_targets": [],
+        "relationship": {
+          "f1": 0.5714285714285714,
+          "fn": 14,
+          "fp": 19,
+          "precision": 0.5365853658536586,
+          "recall": 0.6111111111111112,
+          "tp": 22
+        },
+        "target_has_valuation": {
+          "f1": 0.8529411764705882,
+          "fn": 3,
+          "fp": 7,
+          "precision": 0.8055555555555556,
+          "recall": 0.90625,
+          "tn": 111,
+          "tp": 29
+        }
+      },
+      "model": "claude-fable-5-1",
+      "predictions": "data/evaluation/predictions_claude-fable-5-1_r25.jsonl",
+      "provider": "anthropic",
+      "radius": 25
+    },
+    {
+      "candidates": "data/evaluation/main_r25.jsonl",
+      "execution_settings": {
+        "gemini_thinking_level": "medium",
+        "max_output_tokens": 16000,
+        "prompt_version": "target-grain-prompt-v2"
+      },
+      "expected": {
+        "complete_relation": {
+          "f1": 0.40540540540540543,
+          "fn": 21,
+          "fp": 23,
+          "precision": 0.39473684210526316,
+          "recall": 0.4166666666666667,
+          "tp": 15
+        },
+        "conditional_reading_and_basis_denominator": 21,
+        "correct_rate_basis_on_matched_relationships": 20,
+        "correct_readings_on_matched_relationships": 15,
+        "emitted_relations": 38,
+        "errored_targets": [],
+        "exact_target_relation_sets": 130,
+        "gold_relations": 36,
+        "gold_targets": 150,
+        "invalid_targets": [],
+        "missing_prediction_targets": [],
+        "relationship": {
+          "f1": 0.5675675675675675,
+          "fn": 15,
+          "fp": 17,
+          "precision": 0.5526315789473685,
+          "recall": 0.5833333333333334,
+          "tp": 21
+        },
+        "target_has_valuation": {
+          "f1": 0.8615384615384616,
+          "fn": 4,
+          "fp": 5,
+          "precision": 0.8484848484848485,
+          "recall": 0.875,
+          "tn": 113,
+          "tp": 28
+        }
+      },
+      "model": "gemini-3.8-flash",
+      "predictions": "data/evaluation/predictions_gemini-3.8-flash_r25.jsonl",
+      "provider": "gemini",
+      "radius": 25
+    },
+    {
+      "candidates": "data/evaluation/main_r80.jsonl",
+      "execution_settings": {
+        "max_output_tokens": 16000,
+        "prompt_version": "target-grain-prompt-v2"
+      },
+      "expected": {
+        "complete_relation": {
+          "f1": 0.37209302325581395,
+          "fn": 20,
+          "fp": 34,
+          "precision": 0.32,
+          "recall": 0.4444444444444444,
+          "tp": 16
+        },
+        "conditional_reading_and_basis_denominator": 20,
+        "correct_rate_basis_on_matched_relationships": 20,
+        "correct_readings_on_matched_relationships": 16,
+        "emitted_relations": 50,
+        "errored_targets": [],
+        "exact_target_relation_sets": 120,
+        "gold_relations": 36,
+        "gold_targets": 150,
+        "invalid_targets": [],
+        "missing_prediction_targets": [],
+        "relationship": {
+          "f1": 0.46511627906976744,
+          "fn": 16,
+          "fp": 30,
+          "precision": 0.4,
+          "recall": 0.5555555555555556,
+          "tp": 20
+        },
+        "target_has_valuation": {
+          "f1": 0.8,
+          "fn": 2,
+          "fp": 13,
+          "precision": 0.6976744186046512,
+          "recall": 0.9375,
+          "tn": 105,
+          "tp": 30
+        }
+      },
+      "model": "gpt-6.1-sol",
+      "predictions": "data/evaluation/predictions_gpt-6.1-sol_r80.jsonl",
+      "provider": "openai",
+      "radius": 80
+    },
+    {
+      "candidates": "data/evaluation/main_r80.jsonl",
+      "execution_settings": {
+        "max_output_tokens": 16000,
+        "prompt_version": "target-grain-prompt-v2"
+      },
+      "expected": {
+        "complete_relation": {
+          "f1": 0.4675324675324675,
+          "fn": 18,
+          "fp": 23,
+          "precision": 0.43902439024390244,
+          "recall": 0.5,
+          "tp": 18
+        },
+        "conditional_reading_and_basis_denominator": 20,
+        "correct_rate_basis_on_matched_relationships": 19,
+        "correct_readings_on_matched_relationships": 18,
+        "emitted_relations": 41,
+        "errored_targets": [],
+        "exact_target_relation_sets": 128,
+        "gold_relations": 36,
+        "gold_targets": 150,
+        "invalid_targets": [],
+        "missing_prediction_targets": [],
+        "relationship": {
+          "f1": 0.5194805194805194,
+          "fn": 16,
+          "fp": 21,
+          "precision": 0.4878048780487805,
+          "recall": 0.5555555555555556,
+          "tp": 20
+        },
+        "target_has_valuation": {
+          "f1": 0.8529411764705882,
+          "fn": 3,
+          "fp": 7,
+          "precision": 0.8055555555555556,
+          "recall": 0.90625,
+          "tn": 111,
+          "tp": 29
+        }
+      },
+      "model": "claude-fable-5-1",
+      "predictions": "data/evaluation/predictions_claude-fable-5-1_r80.jsonl",
+      "provider": "anthropic",
+      "radius": 80
+    },
+    {
+      "candidates": "data/evaluation/main_r80.jsonl",
+      "execution_settings": {
+        "gemini_thinking_level": "medium",
+        "max_output_tokens": 16000,
+        "prompt_version": "target-grain-prompt-v2"
+      },
+      "expected": {
+        "complete_relation": {
+          "f1": 0.42857142857142855,
+          "fn": 21,
+          "fp": 19,
+          "precision": 0.4411764705882353,
+          "recall": 0.4166666666666667,
+          "tp": 15
+        },
+        "conditional_reading_and_basis_denominator": 21,
+        "correct_rate_basis_on_matched_relationships": 21,
+        "correct_readings_on_matched_relationships": 15,
+        "emitted_relations": 34,
+        "errored_targets": [],
+        "exact_target_relation_sets": 132,
+        "gold_relations": 36,
+        "gold_targets": 150,
+        "invalid_targets": [],
+        "missing_prediction_targets": [],
+        "relationship": {
+          "f1": 0.6,
+          "fn": 15,
+          "fp": 13,
+          "precision": 0.6176470588235294,
+          "recall": 0.5833333333333334,
+          "tp": 21
+        },
+        "target_has_valuation": {
+          "f1": 0.8571428571428571,
+          "fn": 5,
+          "fp": 4,
+          "precision": 0.8709677419354839,
+          "recall": 0.84375,
+          "tn": 114,
+          "tp": 27
+        }
+      },
+      "model": "gemini-3.8-flash",
+      "predictions": "data/evaluation/predictions_gemini-3.8-flash_r80.jsonl",
+      "provider": "gemini",
+      "radius": 80
+    }
+  ],
+  "negative_targets": 118,
+  "positive_targets": 32,
+  "relations": 36,
+  "targets": 150
+}

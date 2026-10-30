@@ -1,0 +1,41 @@
+[build-system]
+requires = ["setuptools>=77"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "grain-prices"
+version = "0.1.0"
+description = "Reproducible extraction of grain-price observations from documentary papyri"
+readme = "README.md"
+requires-python = ">=3.12"
+license = "MIT"
+authors = [{ name = "Shunya Fujimoto" }]
+dependencies = [
+  "lxml>=5,<7",
+  "numpy>=2,<3",
+  "pandas>=2.2,<4",
+]
+
+[project.optional-dependencies]
+llm = ["google-genai>=1,<2"]
+annotation = ["streamlit>=1.40,<2"]
+legacy = ["matplotlib>=3.9,<4", "openpyxl>=3.1,<4"]
+dev = ["pytest>=8,<10"]
+quarto = ["jupyter>=1.1,<2"]
+
+[project.scripts]
+grain-prices = "grain_prices.cli:main"
+
+[tool.setuptools]
+package-dir = { "" = "src" }
+include-package-data = true
+
+[tool.setuptools.packages.find]
+where = ["src"]
+include = ["grain_prices*"]
+
+[tool.setuptools.package-data]
+"grain_prices.prompts" = ["*.md"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

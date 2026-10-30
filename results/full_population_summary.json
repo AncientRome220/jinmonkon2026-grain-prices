@@ -1,0 +1,29 @@
+{
+  "commodity_relation_counts": {
+    "barley": 361,
+    "emmer": 24,
+    "flour": 3,
+    "grain_unspecified": 37,
+    "other": 2,
+    "wheat": 1653
+  },
+  "deduplicated_source_groups": 2073,
+  "documents": 1933,
+  "emitted_relations": 2080,
+  "errored_targets": 29,
+  "group_statuses": {
+    "agreed": 2066,
+    "interpretation_conflict": 7
+  },
+  "human_verified": false,
+  "individual_outputs_distributed": false,
+  "interpretation_conflicts": 7,
+  "invalid_targets": 0,
+  "model": "gemini-3.8-flash",
+  "radius": 80,
+  "run_id": "jmc2026-full-reviewed-v2-20261029",
+  "targets": 9222,
+  "targets_with_relations": 1865,
+  "valid_targets": 9193,
+  "valid_targets_without_pairs": 7328
+}

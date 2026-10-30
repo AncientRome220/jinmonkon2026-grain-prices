@@ -1,0 +1,200 @@
+{
+  "additionalProperties": false,
+  "properties": {
+    "contexts": {
+      "items": {
+        "additionalProperties": false,
+        "properties": {
+          "context_tags": {
+            "items": {
+              "enum": [
+                "loan",
+                "penalty",
+                "rate_other",
+                "requisition",
+                "sale",
+                "tax_commutation",
+                "unknown",
+                "valuation"
+              ],
+              "type": "string"
+            },
+            "minItems": 1,
+            "type": "array"
+          },
+          "linkage_strength": {
+            "enum": [
+              "explicit",
+              "proximate",
+              "weak"
+            ],
+            "type": "string"
+          },
+          "relation_index": {
+            "type": "integer"
+          }
+        },
+        "required": [
+          "relation_index",
+          "context_tags",
+          "linkage_strength"
+        ],
+        "type": "object"
+      },
+      "type": "array"
+    },
+    "relations": {
+      "items": {
+        "additionalProperties": false,
+        "properties": {
+          "commodity": {
+            "type": "string"
+          },
+          "evidence_span": {
+            "items": {
+              "type": "integer"
+            },
+            "maxItems": 2,
+            "minItems": 2,
+            "type": "array"
+          },
+          "grain_span": {
+            "items": {
+              "type": "integer"
+            },
+            "maxItems": 2,
+            "minItems": 2,
+            "type": "array"
+          },
+          "money": {
+            "additionalProperties": false,
+            "properties": {
+              "components": {
+                "items": {
+                  "additionalProperties": false,
+                  "properties": {
+                    "denomination": {
+                      "type": [
+                        "string",
+                        "null"
+                      ]
+                    },
+                    "span": {
+                      "items": {
+                        "type": "integer"
+                      },
+                      "maxItems": 2,
+                      "minItems": 2,
+                      "type": "array"
+                    },
+                    "value": {
+                      "type": [
+                        "string",
+                        "null"
+                      ]
+                    }
+                  },
+                  "required": [
+                    "span",
+                    "value",
+                    "denomination"
+                  ],
+                  "type": "object"
+                },
+                "type": "array"
+              },
+              "status": {
+                "enum": [
+                  "present",
+                  "unreadable",
+                  "unstated"
+                ],
+                "type": "string"
+              }
+            },
+            "required": [
+              "status",
+              "components"
+            ],
+            "type": "object"
+          },
+          "quantity": {
+            "additionalProperties": false,
+            "properties": {
+              "components": {
+                "items": {
+                  "additionalProperties": false,
+                  "properties": {
+                    "denomination": {
+                      "type": [
+                        "string",
+                        "null"
+                      ]
+                    },
+                    "span": {
+                      "items": {
+                        "type": "integer"
+                      },
+                      "maxItems": 2,
+                      "minItems": 2,
+                      "type": "array"
+                    },
+                    "value": {
+                      "type": [
+                        "string",
+                        "null"
+                      ]
+                    }
+                  },
+                  "required": [
+                    "span",
+                    "value",
+                    "denomination"
+                  ],
+                  "type": "object"
+                },
+                "type": "array"
+              },
+              "status": {
+                "enum": [
+                  "present",
+                  "unreadable",
+                  "unstated"
+                ],
+                "type": "string"
+              }
+            },
+            "required": [
+              "status",
+              "components"
+            ],
+            "type": "object"
+          },
+          "rate_basis": {
+            "enum": [
+              "derived_from_total",
+              "stated_rate",
+              "unknown"
+            ],
+            "type": "string"
+          }
+        },
+        "required": [
+          "grain_span",
+          "commodity",
+          "quantity",
+          "money",
+          "rate_basis",
+          "evidence_span"
+        ],
+        "type": "object"
+      },
+      "type": "array"
+    }
+  },
+  "required": [
+    "relations",
+    "contexts"
+  ],
+  "type": "object"
+}

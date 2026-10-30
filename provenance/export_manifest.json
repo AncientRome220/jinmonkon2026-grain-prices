@@ -1,0 +1,936 @@
+{
+  "files": [
+    {
+      "bytes": 90,
+      "license": "MIT",
+      "origin": "src/grain_prices/__init__.py",
+      "original_sha256": "f8edde938d26b3870c04070248476fa021e72e93068aa1c3e529be7be432f427",
+      "path": "src/grain_prices/__init__.py",
+      "role": "implementation/test/environment",
+      "sha256": "f8edde938d26b3870c04070248476fa021e72e93068aa1c3e529be7be432f427",
+      "transformations": []
+    },
+    {
+      "bytes": 92,
+      "license": "MIT",
+      "origin": "src/grain_prices/__main__.py",
+      "original_sha256": "41083f8a98a5fd11a5c1a23d33f5bfb344a841c2e657f4e311277140caddc72f",
+      "path": "src/grain_prices/__main__.py",
+      "role": "implementation/test/environment",
+      "sha256": "41083f8a98a5fd11a5c1a23d33f5bfb344a841c2e657f4e311277140caddc72f",
+      "transformations": []
+    },
+    {
+      "bytes": 74,
+      "license": "MIT",
+      "origin": "src/grain_prices/annotation/__init__.py",
+      "original_sha256": "3094729f5fc271b5085bb06b518ac7675974f1e59e50ccf27a9ddf9c4e77ed34",
+      "path": "src/grain_prices/annotation/__init__.py",
+      "role": "implementation/test/environment",
+      "sha256": "3094729f5fc271b5085bb06b518ac7675974f1e59e50ccf27a9ddf9c4e77ed34",
+      "transformations": []
+    },
+    {
+      "bytes": 29169,
+      "license": "MIT",
+      "origin": "src/grain_prices/annotation/app.py",
+      "original_sha256": "b84f38188507c243b5079902700e65309d0f8c0a6e427dc864ddc7740791f3f4",
+      "path": "src/grain_prices/annotation/app.py",
+      "role": "implementation/test/environment",
+      "sha256": "b84f38188507c243b5079902700e65309d0f8c0a6e427dc864ddc7740791f3f4",
+      "transformations": []
+    },
+    {
+      "bytes": 23791,
+      "license": "MIT",
+      "origin": "src/grain_prices/annotation/relation_app.py",
+      "original_sha256": "4aad290fcbd91a592afeb6c043665fd0b3dc9feb4f13877adcb014b7754e56c2",
+      "path": "src/grain_prices/annotation/relation_app.py",
+      "role": "implementation/test/environment",
+      "sha256": "4aad290fcbd91a592afeb6c043665fd0b3dc9feb4f13877adcb014b7754e56c2",
+      "transformations": []
+    },
+    {
+      "bytes": 6066,
+      "license": "MIT",
+      "origin": "src/grain_prices/annotation/relation_autofill.py",
+      "original_sha256": "2edc31236720fa82c3f94e4662a5c938db67fce4059fe745eab7df7ef6c22c1f",
+      "path": "src/grain_prices/annotation/relation_autofill.py",
+      "role": "implementation/test/environment",
+      "sha256": "2edc31236720fa82c3f94e4662a5c938db67fce4059fe745eab7df7ef6c22c1f",
+      "transformations": []
+    },
+    {
+      "bytes": 3605,
+      "license": "MIT",
+      "origin": "src/grain_prices/annotation/relation_paste.py",
+      "original_sha256": "0951f4046413d156ad630f932eca8b77dffb759906539dd01457bbbd75ed9ddc",
+      "path": "src/grain_prices/annotation/relation_paste.py",
+      "role": "implementation/test/environment",
+      "sha256": "0951f4046413d156ad630f932eca8b77dffb759906539dd01457bbbd75ed9ddc",
+      "transformations": []
+    },
+    {
+      "bytes": 6474,
+      "license": "MIT",
+      "origin": "src/grain_prices/annotation/relation_review.py",
+      "original_sha256": "3d009d131b512e138e89db7c0eaf4ab1cc918dff5d041a39984055d7ae1606e3",
+      "path": "src/grain_prices/annotation/relation_review.py",
+      "role": "implementation/test/environment",
+      "sha256": "3d009d131b512e138e89db7c0eaf4ab1cc918dff5d041a39984055d7ae1606e3",
+      "transformations": []
+    },
+    {
+      "bytes": 851,
+      "license": "MIT",
+      "origin": "src/grain_prices/annotation/span_selection.py",
+      "original_sha256": "01df1fb604010c8c69df6dd247e8298209e5cc5661f4845ebb066f8e6938a913",
+      "path": "src/grain_prices/annotation/span_selection.py",
+      "role": "implementation/test/environment",
+      "sha256": "01df1fb604010c8c69df6dd247e8298209e5cc5661f4845ebb066f8e6938a913",
+      "transformations": []
+    },
+    {
+      "bytes": 323,
+      "license": "MIT",
+      "origin": "src/grain_prices/canonical/__init__.py",
+      "original_sha256": "b943f6604367eab054538f390532d0f86e936ab0f295315105894d6ea646c755",
+      "path": "src/grain_prices/canonical/__init__.py",
+      "role": "implementation/test/environment",
+      "sha256": "b943f6604367eab054538f390532d0f86e936ab0f295315105894d6ea646c755",
+      "transformations": []
+    },
+    {
+      "bytes": 7828,
+      "license": "MIT",
+      "origin": "src/grain_prices/canonical/analysis.py",
+      "original_sha256": "d3740dfef45271b0d3b14a18466a8d2f63df5b86b49d85b34b39594ccf8c1a15",
+      "path": "src/grain_prices/canonical/analysis.py",
+      "role": "implementation/test/environment",
+      "sha256": "d3740dfef45271b0d3b14a18466a8d2f63df5b86b49d85b34b39594ccf8c1a15",
+      "transformations": []
+    },
+    {
+      "bytes": 30820,
+      "license": "MIT",
+      "origin": "src/grain_prices/canonical/annotation.py",
+      "original_sha256": "b6407a17aae81480d9e4a8f4587de8ecffca303051e0bcd10a19efc7f5c2cfe1",
+      "path": "src/grain_prices/canonical/annotation.py",
+      "role": "implementation/test/environment",
+      "sha256": "b6407a17aae81480d9e4a8f4587de8ecffca303051e0bcd10a19efc7f5c2cfe1",
+      "transformations": []
+    },
+    {
+      "bytes": 4068,
+      "license": "MIT",
+      "origin": "src/grain_prices/canonical/candidates.py",
+      "original_sha256": "24805442d6f187102f66f35537dd06e6f4a8cd4d6e507fae138aac88704f2069",
+      "path": "src/grain_prices/canonical/candidates.py",
+      "role": "implementation/test/environment",
+      "sha256": "24805442d6f187102f66f35537dd06e6f4a8cd4d6e507fae138aac88704f2069",
+      "transformations": []
+    },
+    {
+      "bytes": 6036,
+      "license": "MIT",
+      "origin": "src/grain_prices/canonical/contracts.py",
+      "original_sha256": "cd58a540923affaa5a0245d32c036ffa3486ee000af97459b4611c32a1c802af",
+      "path": "src/grain_prices/canonical/contracts.py",
+      "role": "implementation/test/environment",
+      "sha256": "cd58a540923affaa5a0245d32c036ffa3486ee000af97459b4611c32a1c802af",
+      "transformations": []
+    },
+    {
+      "bytes": 11080,
+      "license": "MIT",
+      "origin": "src/grain_prices/canonical/enumeration.py",
+      "original_sha256": "422bae761624fe99b85a568cfe6815be8282a5545e989abbfcb91d2ae290a34d",
+      "path": "src/grain_prices/canonical/enumeration.py",
+      "role": "implementation/test/environment",
+      "sha256": "422bae761624fe99b85a568cfe6815be8282a5545e989abbfcb91d2ae290a34d",
+      "transformations": []
+    },
+    {
+      "bytes": 14019,
+      "license": "MIT",
+      "origin": "src/grain_prices/canonical/evaluation.py",
+      "original_sha256": "ef49b83d4f86a1c727e60a69098e66848bfe95029a3b0a741bf4f67cc6f219e1",
+      "path": "src/grain_prices/canonical/evaluation.py",
+      "role": "implementation/test/environment",
+      "sha256": "ef49b83d4f86a1c727e60a69098e66848bfe95029a3b0a741bf4f67cc6f219e1",
+      "transformations": []
+    },
+    {
+      "bytes": 4310,
+      "license": "MIT",
+      "origin": "src/grain_prices/canonical/io.py",
+      "original_sha256": "ae9095fc029c1a95d57aaef91a14938ead5e516dc97d03f4c1dab0e1fed09563",
+      "path": "src/grain_prices/canonical/io.py",
+      "role": "implementation/test/environment",
+      "sha256": "ae9095fc029c1a95d57aaef91a14938ead5e516dc97d03f4c1dab0e1fed09563",
+      "transformations": []
+    },
+    {
+      "bytes": 14245,
+      "license": "MIT",
+      "origin": "src/grain_prices/canonical/materialize.py",
+      "original_sha256": "c3841583adc18b2d32d94f4856a8d947433fb88d5ee28c5b4937276c3f233592",
+      "path": "src/grain_prices/canonical/materialize.py",
+      "role": "implementation/test/environment",
+      "sha256": "c3841583adc18b2d32d94f4856a8d947433fb88d5ee28c5b4937276c3f233592",
+      "transformations": []
+    },
+    {
+      "bytes": 3411,
+      "license": "MIT",
+      "origin": "src/grain_prices/canonical/observations.py",
+      "original_sha256": "6f6dba9f24f6f54589ecca24f78b0619c17d93bd4b95f788538555a39764a78c",
+      "path": "src/grain_prices/canonical/observations.py",
+      "role": "implementation/test/environment",
+      "sha256": "6f6dba9f24f6f54589ecca24f78b0619c17d93bd4b95f788538555a39764a78c",
+      "transformations": []
+    },
+    {
+      "bytes": 8502,
+      "license": "MIT",
+      "origin": "src/grain_prices/canonical/options.py",
+      "original_sha256": "f6b3018cb2e1e204788b481ee988e2700b8d10141adae7de4756a7f8c3ea2af5",
+      "path": "src/grain_prices/canonical/options.py",
+      "role": "implementation/test/environment",
+      "sha256": "f6b3018cb2e1e204788b481ee988e2700b8d10141adae7de4756a7f8c3ea2af5",
+      "transformations": []
+    },
+    {
+      "bytes": 908,
+      "license": "MIT",
+      "origin": "src/grain_prices/canonical/provenance.py",
+      "original_sha256": "8291505e76236326fc97a55578f5b1cf3ce534ebb34c0a86acd7c865950f7b73",
+      "path": "src/grain_prices/canonical/provenance.py",
+      "role": "implementation/test/environment",
+      "sha256": "8291505e76236326fc97a55578f5b1cf3ce534ebb34c0a86acd7c865950f7b73",
+      "transformations": []
+    },
+    {
+      "bytes": 11880,
+      "license": "MIT",
+      "origin": "src/grain_prices/canonical/rebuild.py",
+      "original_sha256": "688e2841602d1c8a7e0641cdecfe19fb35fbf7a81fa08ff26cd3a46261cc0508",
+      "path": "src/grain_prices/canonical/rebuild.py",
+      "role": "implementation/test/environment",
+      "sha256": "688e2841602d1c8a7e0641cdecfe19fb35fbf7a81fa08ff26cd3a46261cc0508",
+      "transformations": []
+    },
+    {
+      "bytes": 1099,
+      "license": "MIT",
+      "origin": "src/grain_prices/canonical/relation.py",
+      "original_sha256": "0b767794989ec762d55a5e84392bd47a6d8a3f1fd0b0f336db7952b25c81fd71",
+      "path": "src/grain_prices/canonical/relation.py",
+      "role": "implementation/test/environment",
+      "sha256": "0b767794989ec762d55a5e84392bd47a6d8a3f1fd0b0f336db7952b25c81fd71",
+      "transformations": []
+    },
+    {
+      "bytes": 16387,
+      "license": "MIT",
+      "origin": "src/grain_prices/canonical/relation_experiment.py",
+      "original_sha256": "6a5c2a98718b698296ece95ab2a3f3495f9457ef58640dc0d3f30edd54d2ad09",
+      "path": "src/grain_prices/canonical/relation_experiment.py",
+      "role": "implementation/test/environment",
+      "sha256": "6a5c2a98718b698296ece95ab2a3f3495f9457ef58640dc0d3f30edd54d2ad09",
+      "transformations": []
+    },
+    {
+      "bytes": 6467,
+      "license": "MIT",
+      "origin": "src/grain_prices/canonical/relation_materialize.py",
+      "original_sha256": "9574fe9e41a26b800cd319e5cdf2720ddf47eebd48fd572d2d904349ea0401d2",
+      "path": "src/grain_prices/canonical/relation_materialize.py",
+      "role": "implementation/test/environment",
+      "sha256": "9574fe9e41a26b800cd319e5cdf2720ddf47eebd48fd572d2d904349ea0401d2",
+      "transformations": []
+    },
+    {
+      "bytes": 16171,
+      "license": "MIT",
+      "origin": "src/grain_prices/canonical/relation_provisional.py",
+      "original_sha256": "699702c8ee39fd769d612518fce306c0f20262ea9b69e5557bf0258dd08c47c8",
+      "path": "src/grain_prices/canonical/relation_provisional.py",
+      "role": "implementation/test/environment",
+      "sha256": "699702c8ee39fd769d612518fce306c0f20262ea9b69e5557bf0258dd08c47c8",
+      "transformations": []
+    },
+    {
+      "bytes": 14223,
+      "license": "MIT",
+      "origin": "src/grain_prices/canonical/relation_reviewed.py",
+      "original_sha256": "c424cbd3bba2c6b1a48d4400fd36167127d73ec4145b8de3b096a7d4ed1b6eb1",
+      "path": "src/grain_prices/canonical/relation_reviewed.py",
+      "role": "implementation/test/environment",
+      "sha256": "c424cbd3bba2c6b1a48d4400fd36167127d73ec4145b8de3b096a7d4ed1b6eb1",
+      "transformations": []
+    },
+    {
+      "bytes": 19985,
+      "license": "MIT",
+      "origin": "src/grain_prices/canonical/relation_windows.py",
+      "original_sha256": "65d65584009e89bddc17eb3dee2136a4a9da39f7770429d1b0dbadd1794471a6",
+      "path": "src/grain_prices/canonical/relation_windows.py",
+      "role": "implementation/test/environment",
+      "sha256": "65d65584009e89bddc17eb3dee2136a4a9da39f7770429d1b0dbadd1794471a6",
+      "transformations": []
+    },
+    {
+      "bytes": 15922,
+      "license": "MIT",
+      "origin": "src/grain_prices/canonical/relations.py",
+      "original_sha256": "dff202f883bc743495a344e9334450e8d43bbf1327fb1a2a799df1af453721e8",
+      "path": "src/grain_prices/canonical/relations.py",
+      "role": "implementation/test/environment",
+      "sha256": "dff202f883bc743495a344e9334450e8d43bbf1327fb1a2a799df1af453721e8",
+      "transformations": []
+    },
+    {
+      "bytes": 14487,
+      "license": "MIT",
+      "origin": "src/grain_prices/canonical/review_audit.py",
+      "original_sha256": "f397a7ec422c04370f2d72f3cd6c79a2d0844bf27e440599cb60c92a041285bb",
+      "path": "src/grain_prices/canonical/review_audit.py",
+      "role": "implementation/test/environment",
+      "sha256": "f397a7ec422c04370f2d72f3cd6c79a2d0844bf27e440599cb60c92a041285bb",
+      "transformations": []
+    },
+    {
+      "bytes": 5644,
+      "license": "MIT",
+      "origin": "src/grain_prices/canonical/spine.py",
+      "original_sha256": "cc29bfb488491ca4a473386357178812eec237505abe2ec5b50c48c828daf2f9",
+      "path": "src/grain_prices/canonical/spine.py",
+      "role": "implementation/test/environment",
+      "sha256": "cc29bfb488491ca4a473386357178812eec237505abe2ec5b50c48c828daf2f9",
+      "transformations": []
+    },
+    {
+      "bytes": 1957,
+      "license": "MIT",
+      "origin": "src/grain_prices/canonical/text.py",
+      "original_sha256": "494e6223dc925f2a999c5faa05c1622929bc7570448c4506a1e62026a963e808",
+      "path": "src/grain_prices/canonical/text.py",
+      "role": "implementation/test/environment",
+      "sha256": "494e6223dc925f2a999c5faa05c1622929bc7570448c4506a1e62026a963e808",
+      "transformations": []
+    },
+    {
+      "bytes": 25473,
+      "license": "MIT",
+      "origin": "src/grain_prices/cli.py",
+      "original_sha256": "9f7c8d13b48a0f9598deab02fa1be20a6a67add127e66e02a3db9e1355013940",
+      "path": "src/grain_prices/cli.py",
+      "role": "implementation/test/environment",
+      "sha256": "9f7c8d13b48a0f9598deab02fa1be20a6a67add127e66e02a3db9e1355013940",
+      "transformations": []
+    },
+    {
+      "bytes": 3808,
+      "license": "MIT",
+      "origin": "src/grain_prices/config.py",
+      "original_sha256": "dae19240068f5a3a22e525dabbe27d2b2b5f1272d45378279e57158e38c90591",
+      "path": "src/grain_prices/config.py",
+      "role": "implementation/test/environment",
+      "sha256": "dae19240068f5a3a22e525dabbe27d2b2b5f1272d45378279e57158e38c90591",
+      "transformations": []
+    },
+    {
+      "bytes": 80,
+      "license": "MIT",
+      "origin": "src/grain_prices/legacy/__init__.py",
+      "original_sha256": "1e913cbe15d6b86a9ab4cd548e1d7ba4b6897393d35b6c2e9df3ae7615a57003",
+      "path": "src/grain_prices/legacy/__init__.py",
+      "role": "implementation/test/environment",
+      "sha256": "1e913cbe15d6b86a9ab4cd548e1d7ba4b6897393d35b6c2e9df3ae7615a57003",
+      "transformations": []
+    },
+    {
+      "bytes": 44523,
+      "license": "MIT",
+      "origin": "src/grain_prices/legacy/stage2.py",
+      "original_sha256": "87bab2cf33ff5b67b83f22698e442481ece6e14beea9060382fd45af596858a5",
+      "path": "src/grain_prices/legacy/stage2.py",
+      "role": "implementation/test/environment",
+      "sha256": "87bab2cf33ff5b67b83f22698e442481ece6e14beea9060382fd45af596858a5",
+      "transformations": []
+    },
+    {
+      "bytes": 24453,
+      "license": "MIT",
+      "origin": "src/grain_prices/legacy/stage2c.py",
+      "original_sha256": "7b53f9305306acacc20a9db700c66eb9a3f2cc38c5471696fdbb49f264f46c70",
+      "path": "src/grain_prices/legacy/stage2c.py",
+      "role": "implementation/test/environment",
+      "sha256": "7b53f9305306acacc20a9db700c66eb9a3f2cc38c5471696fdbb49f264f46c70",
+      "transformations": []
+    },
+    {
+      "bytes": 0,
+      "license": "MIT",
+      "origin": "src/grain_prices/llm/__init__.py",
+      "original_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "path": "src/grain_prices/llm/__init__.py",
+      "role": "implementation/test/environment",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "transformations": []
+    },
+    {
+      "bytes": 8359,
+      "license": "MIT",
+      "origin": "src/grain_prices/llm/canonical_runner.py",
+      "original_sha256": "c916d7a38fcc2e906c9d7c45bc2892f00bc5cfa51381b2a117aca5616350135f",
+      "path": "src/grain_prices/llm/canonical_runner.py",
+      "role": "implementation/test/environment",
+      "sha256": "c916d7a38fcc2e906c9d7c45bc2892f00bc5cfa51381b2a117aca5616350135f",
+      "transformations": []
+    },
+    {
+      "bytes": 11110,
+      "license": "MIT",
+      "origin": "src/grain_prices/llm/clients.py",
+      "original_sha256": "d11d021bfbc0e712a67a54ed7073e804a9273f4acb2b189f8bb3c86caa30429a",
+      "path": "src/grain_prices/llm/clients.py",
+      "role": "implementation/test/environment",
+      "sha256": "d11d021bfbc0e712a67a54ed7073e804a9273f4acb2b189f8bb3c86caa30429a",
+      "transformations": []
+    },
+    {
+      "bytes": 2676,
+      "license": "MIT",
+      "origin": "src/grain_prices/llm/prompt_loader.py",
+      "original_sha256": "cf2f090fa7de5e0a7af72232c435acadc9defed502ad056298d2707d165fc1f3",
+      "path": "src/grain_prices/llm/prompt_loader.py",
+      "role": "implementation/test/environment",
+      "sha256": "cf2f090fa7de5e0a7af72232c435acadc9defed502ad056298d2707d165fc1f3",
+      "transformations": []
+    },
+    {
+      "bytes": 12322,
+      "license": "MIT",
+      "origin": "src/grain_prices/llm/relation_runner.py",
+      "original_sha256": "e2dd576b9fbc79b4fd757398212ab0cbcb410a8ed0f09c54b5b7adaef0a23fdb",
+      "path": "src/grain_prices/llm/relation_runner.py",
+      "role": "implementation/test/environment",
+      "sha256": "e2dd576b9fbc79b4fd757398212ab0cbcb410a8ed0f09c54b5b7adaef0a23fdb",
+      "transformations": []
+    },
+    {
+      "bytes": 20791,
+      "license": "MIT",
+      "origin": "src/grain_prices/pipeline_shared.py",
+      "original_sha256": "a78a470e8ea5ba5228fd0697f4ef255694a12df3b75c8a68d68521b04a1dba51",
+      "path": "src/grain_prices/pipeline_shared.py",
+      "role": "implementation/test/environment",
+      "sha256": "a78a470e8ea5ba5228fd0697f4ef255694a12df3b75c8a68d68521b04a1dba51",
+      "transformations": []
+    },
+    {
+      "bytes": 0,
+      "license": "MIT",
+      "origin": "src/grain_prices/preprocessing/__init__.py",
+      "original_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "path": "src/grain_prices/preprocessing/__init__.py",
+      "role": "implementation/test/environment",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "transformations": []
+    },
+    {
+      "bytes": 18530,
+      "license": "MIT",
+      "origin": "src/grain_prices/preprocessing/build_assignment_subset.py",
+      "original_sha256": "42e521cedbc6633130604f80dc96e4d90c3f28965fcd7124a1eb7ef2d713b948",
+      "path": "src/grain_prices/preprocessing/build_assignment_subset.py",
+      "role": "implementation/test/environment",
+      "sha256": "42e521cedbc6633130604f80dc96e4d90c3f28965fcd7124a1eb7ef2d713b948",
+      "transformations": []
+    },
+    {
+      "bytes": 5143,
+      "license": "MIT",
+      "origin": "src/grain_prices/preprocessing/build_windows.py",
+      "original_sha256": "e439587f7e55bc91bf98d6540767924b5aa669ecade45eb5494a80575834106a",
+      "path": "src/grain_prices/preprocessing/build_windows.py",
+      "role": "implementation/test/environment",
+      "sha256": "e439587f7e55bc91bf98d6540767924b5aa669ecade45eb5494a80575834106a",
+      "transformations": []
+    },
+    {
+      "bytes": 17362,
+      "license": "MIT",
+      "origin": "src/grain_prices/preprocessing/hgv_extract_full.py",
+      "original_sha256": "da45cc3173c299d014a2fec6d7513c7b8f1ce2080a03ab18c7890d1fdd4003ac",
+      "path": "src/grain_prices/preprocessing/hgv_extract_full.py",
+      "role": "implementation/test/environment",
+      "sha256": "da45cc3173c299d014a2fec6d7513c7b8f1ce2080a03ab18c7890d1fdd4003ac",
+      "transformations": []
+    },
+    {
+      "bytes": 19031,
+      "license": "MIT",
+      "origin": "src/grain_prices/preprocessing/parse_xml.py",
+      "original_sha256": "2dff6adc22cda725663c93d8e623639943881ed587217c9105d021bb4fc08e1a",
+      "path": "src/grain_prices/preprocessing/parse_xml.py",
+      "role": "implementation/test/environment",
+      "sha256": "2dff6adc22cda725663c93d8e623639943881ed587217c9105d021bb4fc08e1a",
+      "transformations": []
+    },
+    {
+      "bytes": 67,
+      "license": "MIT",
+      "origin": "src/grain_prices/prompts/__init__.py",
+      "original_sha256": "26748a4030bfabd4f745d359c253f30ab774ebb38841647d04b676b4ade6a427",
+      "path": "src/grain_prices/prompts/__init__.py",
+      "role": "implementation/test/environment",
+      "sha256": "26748a4030bfabd4f745d359c253f30ab774ebb38841647d04b676b4ade6a427",
+      "transformations": []
+    },
+    {
+      "bytes": 4782,
+      "license": "MIT",
+      "origin": "src/grain_prices/prompts/price_adjudication_canonical_v13_1.md",
+      "original_sha256": "1d3eb680c31f37ffb8a9a57e74eb71be79806198279579d58a3a67b34d82c50f",
+      "path": "src/grain_prices/prompts/price_adjudication_canonical_v13_1.md",
+      "role": "implementation/test/environment",
+      "sha256": "1d3eb680c31f37ffb8a9a57e74eb71be79806198279579d58a3a67b34d82c50f",
+      "transformations": []
+    },
+    {
+      "bytes": 5165,
+      "license": "MIT",
+      "origin": "src/grain_prices/prompts/price_adjudication_canonical_v13_1_options_v2.md",
+      "original_sha256": "71cd7a337a0e34a3be72548a688210d2c887a821317dfd587e22494224367b08",
+      "path": "src/grain_prices/prompts/price_adjudication_canonical_v13_1_options_v2.md",
+      "role": "implementation/test/environment",
+      "sha256": "71cd7a337a0e34a3be72548a688210d2c887a821317dfd587e22494224367b08",
+      "transformations": []
+    },
+    {
+      "bytes": 2683,
+      "license": "MIT",
+      "origin": "src/grain_prices/prompts/target_grain_relations_v1.md",
+      "original_sha256": "34af5ca648125e41f5eeef82f99065df58cdbe128a5b914053d1e5a699d23e73",
+      "path": "src/grain_prices/prompts/target_grain_relations_v1.md",
+      "role": "implementation/test/environment",
+      "sha256": "34af5ca648125e41f5eeef82f99065df58cdbe128a5b914053d1e5a699d23e73",
+      "transformations": []
+    },
+    {
+      "bytes": 4395,
+      "license": "MIT",
+      "origin": "src/grain_prices/prompts/target_grain_relations_v2.md",
+      "original_sha256": "ff5b877c3de8ae0c136a3b7f46105dcb153737984026161b886e5226eaf95686",
+      "path": "src/grain_prices/prompts/target_grain_relations_v2.md",
+      "role": "implementation/test/environment",
+      "sha256": "ff5b877c3de8ae0c136a3b7f46105dcb153737984026161b886e5226eaf95686",
+      "transformations": []
+    },
+    {
+      "bytes": 3514,
+      "license": "MIT",
+      "origin": "src/grain_prices/snapshot.py",
+      "original_sha256": "7892571c8970f34b4b0b5192fa2cf0843ee5f182f47b8e861a513e297bf61e53",
+      "path": "src/grain_prices/snapshot.py",
+      "role": "implementation/test/environment",
+      "sha256": "7892571c8970f34b4b0b5192fa2cf0843ee5f182f47b8e861a513e297bf61e53",
+      "transformations": []
+    },
+    {
+      "bytes": 602,
+      "license": "MIT",
+      "origin": "tests/fixtures/canonical_sale_multi.xml",
+      "original_sha256": "985ea1d5fad891569a10315b890fb884de0b2ebde0702a8da00a9e98d3f6494d",
+      "path": "tests/fixtures/canonical_sale_multi.xml",
+      "role": "implementation/test/environment",
+      "sha256": "985ea1d5fad891569a10315b890fb884de0b2ebde0702a8da00a9e98d3f6494d",
+      "transformations": []
+    },
+    {
+      "bytes": 12365,
+      "license": "MIT",
+      "origin": "tests/test_canonical_option_fixes.py",
+      "original_sha256": "e19446cfe7cac519f4afba12d641b8bffdb6e79edad100cc2b60d3dafcd8c522",
+      "path": "tests/test_canonical_option_fixes.py",
+      "role": "implementation/test/environment",
+      "sha256": "e19446cfe7cac519f4afba12d641b8bffdb6e79edad100cc2b60d3dafcd8c522",
+      "transformations": []
+    },
+    {
+      "bytes": 5806,
+      "license": "MIT",
+      "origin": "tests/test_hgv_metadata.py",
+      "original_sha256": "8128340f59131cd9d7ad3242de2d3b8d160f10fb2c9bc19aae401b5013689ee4",
+      "path": "tests/test_hgv_metadata.py",
+      "role": "implementation/test/environment",
+      "sha256": "8128340f59131cd9d7ad3242de2d3b8d160f10fb2c9bc19aae401b5013689ee4",
+      "transformations": []
+    },
+    {
+      "bytes": 9326,
+      "license": "MIT",
+      "origin": "tests/test_llm_clients.py",
+      "original_sha256": "9a57e11b17ae0b4c957cd6e9638a4c02082f55591dd9fab813e1050c90101dcc",
+      "path": "tests/test_llm_clients.py",
+      "role": "implementation/test/environment",
+      "sha256": "9a57e11b17ae0b4c957cd6e9638a4c02082f55591dd9fab813e1050c90101dcc",
+      "transformations": []
+    },
+    {
+      "bytes": 11893,
+      "license": "MIT",
+      "origin": "tests/test_relation_integration.py",
+      "original_sha256": "6dfaeae9135a715b6594aba82c273122238a35e72a061e1f5e4f314ca1d4ec36",
+      "path": "tests/test_relation_integration.py",
+      "role": "implementation/test/environment",
+      "sha256": "6dfaeae9135a715b6594aba82c273122238a35e72a061e1f5e4f314ca1d4ec36",
+      "transformations": []
+    },
+    {
+      "bytes": 6544,
+      "license": "MIT",
+      "origin": "tests/test_relation_reviewed.py",
+      "original_sha256": "9ff2e00c6197e5b2421fc9d91c9c0fef9ce673fe23664bf0e7cdccba3ea64617",
+      "path": "tests/test_relation_reviewed.py",
+      "role": "implementation/test/environment",
+      "sha256": "9ff2e00c6197e5b2421fc9d91c9c0fef9ce673fe23664bf0e7cdccba3ea64617",
+      "transformations": []
+    },
+    {
+      "bytes": 9302,
+      "license": "MIT",
+      "origin": "tests/test_target_relations.py",
+      "original_sha256": "06785b31ec74df0bd7fe4d0d0f2298298ff674a7ff949e109578e3f9eaccf762",
+      "path": "tests/test_target_relations.py",
+      "role": "implementation/test/environment",
+      "sha256": "06785b31ec74df0bd7fe4d0d0f2298298ff674a7ff949e109578e3f9eaccf762",
+      "transformations": []
+    },
+    {
+      "bytes": 1340,
+      "license": "MIT",
+      "origin": "tests/test_canonical_pipeline.py",
+      "original_sha256": "0e7a5a9767b9be20a9f97e2ea34ca122e434d70759283ff5367426daaf0bd9fa",
+      "path": "tests/test_canonical_pipeline.py",
+      "role": "synthetic helper fixtures imported by option tests",
+      "sha256": "08e607104517501a34d65c3f885034ff1cd63d23f700a16ad2c176c5067aed76",
+      "transformations": [
+        "Extract only sample_candidate, sample_answer, PROMPT_PATH; omit unrelated test suite"
+      ]
+    },
+    {
+      "bytes": 934,
+      "license": "MIT",
+      "origin": "pyproject.toml",
+      "original_sha256": "7d8e536c7d6a97a6cd043ac245b733a1d794aa9edb3cde4ddb43fad697a5756e",
+      "path": "pyproject.toml",
+      "role": "package metadata",
+      "sha256": "5d2d7f085e3be6340f4ad922f04d67984650c90c1451cbc167674598dde7eed9",
+      "transformations": [
+        "Remove practice extra and entry point"
+      ]
+    },
+    {
+      "bytes": 495984,
+      "license": "MIT",
+      "origin": "uv.lock",
+      "original_sha256": "bd77e5f7c84df111275abbf0fedb566f20bb10622b206ff1ce1d2cb51055e45c",
+      "path": "uv.lock",
+      "role": "dependency lock (refreshed after packaging change)",
+      "sha256": "75a067a234cd4a8edaf15362050c7e51d31a0a6906bf7792d08a8cc095fed1d6",
+      "transformations": [
+        "Refresh lock offline after removing unrelated practice extra; preserve dependency versions"
+      ]
+    },
+    {
+      "bytes": 1072,
+      "license": "MIT",
+      "origin": "LICENSE",
+      "original_sha256": "7b007e5084a8123a0392b336ca02b461e3aefdc54a8675feadf63a349d3daa4d",
+      "path": "LICENSE",
+      "role": "license",
+      "sha256": "7b007e5084a8123a0392b336ca02b461e3aefdc54a8675feadf63a349d3daa4d",
+      "transformations": []
+    },
+    {
+      "bytes": 591,
+      "license": "CC-BY-4.0",
+      "origin": "LICENSE-DATA.md",
+      "original_sha256": "f724e81f0e4472ac97f4d52bb99fed960960bfb660bed7416839e888407b642d",
+      "path": "LICENSE-DATA.md",
+      "role": "license",
+      "sha256": "f724e81f0e4472ac97f4d52bb99fed960960bfb660bed7416839e888407b642d",
+      "transformations": []
+    },
+    {
+      "bytes": 87,
+      "license": "CC-BY-4.0",
+      "origin": "release-authored:.gitattributes",
+      "original_sha256": null,
+      "path": ".gitattributes",
+      "role": "release documentation/tooling",
+      "sha256": "ea75f750e3f2da6fdc3a18fee1bd146623c03d506a98881f59dc926a03ea64d0",
+      "transformations": []
+    },
+    {
+      "bytes": 625,
+      "license": "MIT",
+      "origin": "release-authored:.github/workflows/ci.yml",
+      "original_sha256": null,
+      "path": ".github/workflows/ci.yml",
+      "role": "release documentation/tooling",
+      "sha256": "c3d7e3c3349dadaacda030ba146b8e1f8219a812dffbb1164cf5c2247632eef7",
+      "transformations": []
+    },
+    {
+      "bytes": 104,
+      "license": "CC-BY-4.0",
+      "origin": "release-authored:.gitignore",
+      "original_sha256": null,
+      "path": ".gitignore",
+      "role": "release documentation/tooling",
+      "sha256": "2153620e9bb92cd75e5b7ebc12317f39c2ad6b439828481c9e6cc83b03c82492",
+      "transformations": []
+    },
+    {
+      "bytes": 500,
+      "license": "CC-BY-4.0",
+      "origin": "release-authored:CITATION.cff",
+      "original_sha256": null,
+      "path": "CITATION.cff",
+      "role": "release documentation/tooling",
+      "sha256": "452e43ae210e32cf6ad10cc11225e2c36c9b429494b37283a11883fd1b138d48",
+      "transformations": []
+    },
+    {
+      "bytes": 2811,
+      "license": "CC-BY-4.0",
+      "origin": "release-authored:docs/DATA.md",
+      "original_sha256": null,
+      "path": "docs/DATA.md",
+      "role": "release documentation/tooling",
+      "sha256": "eede5c7811ef8a7c536b303a4aa007640b7906f02243ebfbb26efb3a5f385176",
+      "transformations": []
+    },
+    {
+      "bytes": 2098,
+      "license": "CC-BY-4.0",
+      "origin": "release-authored:docs/REPRODUCIBILITY.md",
+      "original_sha256": null,
+      "path": "docs/REPRODUCIBILITY.md",
+      "role": "release documentation/tooling",
+      "sha256": "b95cb1e1930a1470e75be7dd300738e45d946eae57fa7994a59dea79450c2842",
+      "transformations": []
+    },
+    {
+      "bytes": 1684,
+      "license": "CC-BY-4.0",
+      "origin": "release-authored:NOTICE.md",
+      "original_sha256": null,
+      "path": "NOTICE.md",
+      "role": "release documentation/tooling",
+      "sha256": "c1eecb3328d40c9c956f182d401a61d8336f54f5a812d625fa481b875612c3d8",
+      "transformations": []
+    },
+    {
+      "bytes": 3978,
+      "license": "CC-BY-4.0",
+      "origin": "release-authored:README.md",
+      "original_sha256": null,
+      "path": "README.md",
+      "role": "release documentation/tooling",
+      "sha256": "64ce6608f2605984d22f8ae76a280ca93e893eb7eda3498dbb78870dc78c812e",
+      "transformations": []
+    },
+    {
+      "bytes": 2377,
+      "license": "MIT",
+      "origin": "release-authored:scripts/check_release.py",
+      "original_sha256": null,
+      "path": "scripts/check_release.py",
+      "role": "release documentation/tooling",
+      "sha256": "0bc93f5e5d0675f100b4e297c06806a302283bfcfc7ceb425d2f5207c00ea06a",
+      "transformations": []
+    },
+    {
+      "bytes": 2969,
+      "license": "MIT",
+      "origin": "release-authored:scripts/reproduce.py",
+      "original_sha256": null,
+      "path": "scripts/reproduce.py",
+      "role": "release documentation/tooling",
+      "sha256": "cd46bb95b33e3889620a6592a42ea01d8a69d58aecb717b7d96dbdb48670633a",
+      "transformations": []
+    },
+    {
+      "bytes": 445870,
+      "license": "CC-BY-4.0; embedded DDbDP/HGV: CC-BY-3.0",
+      "origin": "experiment/gold.jsonl",
+      "original_sha256": "0573dcd2556f337ed19c86d05e43788b132b3ff1666663eb5b8a91dc44689e34",
+      "path": "data/evaluation/gold.jsonl",
+      "role": "confirmed reference",
+      "sha256": "9615e86ea7bae800c0cbcfc95a47fe45cf0d4f44a52fb31b75570e87e8b8dd80",
+      "transformations": [
+        "Remove fields: ai_draft, ai_review_recommendation, date_not_after, date_not_before, money_options, origin_annotations, place, preparation_flags, qty_options, relation_proposals, review_note, review_sessions",
+        "Replace reviewer name with reviewer-1; one human reviewer"
+      ]
+    },
+    {
+      "bytes": 1402243,
+      "license": "CC-BY-4.0; embedded DDbDP/HGV: CC-BY-3.0",
+      "origin": "experiment/main_r25.jsonl",
+      "original_sha256": "db5f11d5ce7e8afe2015dfe99b8b2ed7146a9afa2c554e11c3a263fc877182e4",
+      "path": "data/evaluation/main_r25.jsonl",
+      "role": "frozen input; full block included for validation, only excerpt sent to model",
+      "sha256": "db5f11d5ce7e8afe2015dfe99b8b2ed7146a9afa2c554e11c3a263fc877182e4",
+      "transformations": []
+    },
+    {
+      "bytes": 2781649,
+      "license": "CC-BY-4.0; embedded DDbDP/HGV: CC-BY-3.0",
+      "origin": "experiment/main_r80.jsonl",
+      "original_sha256": "ff909d466c611ce29e6ca1037d2a5847270ac72ab404d9bad789e7249ac3f007",
+      "path": "data/evaluation/main_r80.jsonl",
+      "role": "frozen input; full block included for validation, only excerpt sent to model",
+      "sha256": "ff909d466c611ce29e6ca1037d2a5847270ac72ab404d9bad789e7249ac3f007",
+      "transformations": []
+    },
+    {
+      "bytes": 151921,
+      "license": "CC-BY-4.0; embedded DDbDP/HGV: CC-BY-3.0",
+      "origin": "experiment/predictions_gpt-6.1-sol_r25.jsonl",
+      "original_sha256": "08ee80f61fdf24d23280b68449d90fbb5e2d6e9b8a09d08424d2c4b888e1fe0f",
+      "path": "data/evaluation/predictions_gpt-6.1-sol_r25.jsonl",
+      "role": "saved model output",
+      "sha256": "848bf47fd893333e0b151ecbd1ce063c288c0367c29f2a93ec0e0bec121d46dc",
+      "transformations": [
+        "Remove operational fields: latency_ms, provider_calls, validation_attempts"
+      ]
+    },
+    {
+      "bytes": 151924,
+      "license": "CC-BY-4.0; embedded DDbDP/HGV: CC-BY-3.0",
+      "origin": "experiment/predictions_claude-fable-5-1_r25.jsonl",
+      "original_sha256": "efcee9e0ac721a72a17b7f27bd10f7b95bc5e6dd3cc1f08ef07896cb02b4cc2a",
+      "path": "data/evaluation/predictions_claude-fable-5-1_r25.jsonl",
+      "role": "saved model output",
+      "sha256": "d957d4d33a9a69c014004d9a950ba2b92a336ece3b682a852799e3064acd32db",
+      "transformations": [
+        "Remove operational fields: latency_ms, provider_calls, validation_attempts"
+      ]
+    },
+    {
+      "bytes": 155347,
+      "license": "CC-BY-4.0; embedded DDbDP/HGV: CC-BY-3.0",
+      "origin": "experiment/predictions_gemini-3.8-flash_r25.jsonl",
+      "original_sha256": "d0df53480678d4bfda4c76b8ef857fad37943d0ee812ed1be76167e98c002a46",
+      "path": "data/evaluation/predictions_gemini-3.8-flash_r25.jsonl",
+      "role": "saved model output",
+      "sha256": "cf07a8a64b5ecad4bfe596b416792d38ca029b36609abb05359d4623cfc2336e",
+      "transformations": [
+        "Remove operational fields: latency_ms, provider_calls, validation_attempts"
+      ]
+    },
+    {
+      "bytes": 154166,
+      "license": "CC-BY-4.0; embedded DDbDP/HGV: CC-BY-3.0",
+      "origin": "experiment/predictions_gpt-6.1-sol_r80.jsonl",
+      "original_sha256": "a4e95d6b7c95b93fc9131fda66e1711a0c94c9f05dae3825dc77e9fae8ca3728",
+      "path": "data/evaluation/predictions_gpt-6.1-sol_r80.jsonl",
+      "role": "saved model output",
+      "sha256": "de21265acf61d5651fd9a9ec6759eec476f3c440c209fcb5bb966cb00fc319bb",
+      "transformations": [
+        "Remove operational fields: latency_ms, provider_calls, validation_attempts"
+      ]
+    },
+    {
+      "bytes": 151939,
+      "license": "CC-BY-4.0; embedded DDbDP/HGV: CC-BY-3.0",
+      "origin": "experiment/predictions_claude-fable-5-1_r80.jsonl",
+      "original_sha256": "79ae3e47fed7bfaaf2997e143980e694f629b823975159f5aa291142aeebb6f0",
+      "path": "data/evaluation/predictions_claude-fable-5-1_r80.jsonl",
+      "role": "saved model output",
+      "sha256": "0c81ec9898b268d68f6eb3c1862124f928074f81e76bd55ab7bef7574d544618",
+      "transformations": [
+        "Remove operational fields: latency_ms, provider_calls, validation_attempts"
+      ]
+    },
+    {
+      "bytes": 153426,
+      "license": "CC-BY-4.0; embedded DDbDP/HGV: CC-BY-3.0",
+      "origin": "experiment/predictions_gemini-3.8-flash_r80.jsonl",
+      "original_sha256": "88f2111a38b9cd18a30316009d445c97ce868dde8b516739d64749750c08db48",
+      "path": "data/evaluation/predictions_gemini-3.8-flash_r80.jsonl",
+      "role": "saved model output",
+      "sha256": "b17cc4d8045af552385394633e4b1964410ee8fae09987ae084ad4d2f7467bb1",
+      "transformations": [
+        "Remove operational fields: latency_ms, provider_calls, validation_attempts"
+      ]
+    },
+    {
+      "bytes": 9230,
+      "license": "CC-BY-4.0",
+      "origin": "reviewed150_results.json",
+      "original_sha256": null,
+      "path": "results/evaluation_expected.json",
+      "role": "six-condition results and reproducibility contract",
+      "sha256": "6332492e0c91591273cdb65482c6581b7cdea1578d6b65a17f73a073fbda6e54",
+      "transformations": []
+    },
+    {
+      "bytes": 5062,
+      "license": "MIT",
+      "origin": "LLM provider schema",
+      "original_sha256": null,
+      "path": "provenance/output_schema.json",
+      "role": "output contract",
+      "sha256": "606c8ccbc463cc30e1fcf1b4c82b12ba167c38605977d249380dc5bde6271be3",
+      "transformations": []
+    },
+    {
+      "bytes": 14753,
+      "license": "CC-BY-4.0",
+      "origin": "reviewed_package/code_sha256",
+      "original_sha256": null,
+      "path": "provenance/code_at_execution.json",
+      "role": "code-version comparison",
+      "sha256": "df3c0380112ebfbc0a5002bb3ccdc1b043f08e72c3cd3786351a6ca3ddefdcac",
+      "transformations": []
+    },
+    {
+      "bytes": 74725,
+      "license": "CC-BY-4.0",
+      "origin": "local source XML headers and frozen evaluation blocks",
+      "original_sha256": null,
+      "path": "provenance/source_documents.json",
+      "role": "source attribution and identity",
+      "sha256": "7b82411a8c0f9151a42a161d64251195716ef64ad9b7d7b4a29d8674cee73f34",
+      "transformations": []
+    },
+    {
+      "bytes": 689,
+      "license": "CC-BY-4.0",
+      "origin": "full_pass_results.json",
+      "original_sha256": null,
+      "path": "results/full_population_summary.json",
+      "role": "Tables 5 and 6 aggregates only",
+      "sha256": "eb3078d5326515d2dc5062630e88ff439bb263cafbd79c68ecfdc66ad65603be",
+      "transformations": []
+    },
+    {
+      "bytes": 2048,
+      "license": "CC-BY-4.0",
+      "origin": "frozen reviewed package",
+      "original_sha256": null,
+      "path": "provenance/experiment.json",
+      "role": "sanitized experimental settings",
+      "sha256": "271af550dad652e53e3533a82ba9e89ebc6730eded5f5e2fc1584ff05a8e3452",
+      "transformations": []
+    }
+  ],
+  "version": 1
+}

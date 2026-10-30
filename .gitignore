@@ -1,0 +1,10 @@
+.venv/
+.tmp/
+.pytest_cache/
+__pycache__/
+*.pyc
+*.egg-info/
+reproduced/
+outputs/
+.env
+configs/local.toml

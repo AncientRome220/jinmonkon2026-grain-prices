@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader><fileDesc><titleStmt><title>Canonical multi-option fixture</title></titleStmt>
+    <publicationStmt><idno type="ddb-hybrid">fixture;sale;1</idno></publicationStmt>
+    <sourceDesc><p>test</p></sourceDesc></fileDesc></teiHeader>
+  <text><body><div type="edition"><ab>
+    τιμὴ πυροῦ ἀρτάβης <num value="2">β</num> δραχμαὶ <num value="8">η</num>,
+    κριθῆς ἀρτάβης <num value="3">γ</num> δραχμαὶ <num value="9">θ</num>.
+  </ab></div></body></text>
+</TEI>

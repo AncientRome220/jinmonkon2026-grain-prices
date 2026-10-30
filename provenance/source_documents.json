@@ -1,0 +1,1860 @@
+{
+  "documents": [
+    {
+      "attribution": "Duke Databank of Documentary Papyri / DC3",
+      "blocks": {
+        "e0:b5": "967c254ceaced38a8bb65d88422ecece3880ca949fa6bd726f1a02c86219b8fb"
+      },
+      "doc_id": "bgu;10;1944",
+      "license_urls": [
+        "http://creativecommons.org/licenses/by/3.0/"
+      ],
+      "source_url": "https://papyri.info/ddbdp/bgu;10;1944",
+      "xml_logical_path": "bgu/bgu.10/bgu.10.1944.xml",
+      "xml_sha256": "2f79ba59de02afba16b53a847d466e757bf158d7a398cb3fd4f43a76aea90df2"
+    },
+    {
+      "attribution": "Duke Databank of Documentary Papyri / DC3",
+      "blocks": {
+        "e0:b0": "0410db37b7c7ed3dfa9087cbb00c05bd0bbd1afe1cf616949d6219d0a7449bd5"
+      },
+      "doc_id": "bgu;14;2388",
+      "license_urls": [
+        "http://creativecommons.org/licenses/by/3.0/"
+      ],
+      "source_url": "https://papyri.info/ddbdp/bgu;14;2388",
+      "xml_logical_path": "bgu/bgu.14/bgu.14.2388.xml",
+      "xml_sha256": "d0089227e20105ef99f77833c538051ef9d539e42ddaab130f4e3f34bddb6870"
+    },
+    {
+      "attribution": "Duke Databank of Documentary Papyri / DC3",
+      "blocks": {
+        "e0:b1": "2c531e981a86ed83dbeb9cb31f2e1c35996f15c9d597bc136e6205c09acf8e31"
+      },
+      "doc_id": "bgu;14;2437",
+      "license_urls": [
+        "http://creativecommons.org/licenses/by/3.0/"
+      ],
+      "source_url": "https://papyri.info/ddbdp/bgu;14;2437",
+      "xml_logical_path": "bgu/bgu.14/bgu.14.2437.xml",
+      "xml_sha256": "2bc1ead7ea3fa1aee100e9f7d30f969495a7af3a81d0d25694531f63e259a6be"
+    },
+    {
+      "attribution": "Duke Databank of Documentary Papyri / DC3",
+      "blocks": {
+        "e0:b0": "c9dd74bae2cc07bbba75e457bad1bf8316f5df4cde25b45a6262c61e9382a02d"
+      },
+      "doc_id": "bgu;20;2840",
+      "license_urls": [
+        "http://creativecommons.org/licenses/by/3.0/"
+      ],
+      "source_url": "https://papyri.info/ddbdp/bgu;20;2840",
+      "xml_logical_path": "bgu/bgu.20/bgu.20.2840.xml",
+      "xml_sha256": "2ca38bd46c23143ed1647e73f8cac0b0a9d9b76741fa820a6569635ad699fe69"
+    },
+    {
+      "attribution": "Duke Databank of Documentary Papyri / DC3",
+      "blocks": {
+        "e0:b0": "f9ce9a5ee01f1b257aeb24e70b7b8eb6314f596ab6a0e038e926587a40a142d1"
+      },
+      "doc_id": "bgu;6;1277",
+      "license_urls": [
+        "http://creativecommons.org/licenses/by/3.0/"
+      ],
+      "source_url": "https://papyri.info/ddbdp/bgu;6;1277",
+      "xml_logical_path": "bgu/bgu.6/bgu.6.1277.xml",
+      "xml_sha256": "1133381274caab9ab3f54cde58e195833f79d9eb24f29871f7b5f9d8b08f7897"
+    },
+    {
+      "attribution": "Duke Databank of Documentary Papyri / DC3",
+      "blocks": {
+        "e0:b0": "b0711a57b6fb14a6f4a62af6644cda8b1f0e216faa3a61ca760ab671aed88f80"
+      },
+      "doc_id": "bgu;7;1505",
+      "license_urls": [
+        "http://creativecommons.org/licenses/by/3.0/"
+      ],
+      "source_url": "https://papyri.info/ddbdp/bgu;7;1505",
+      "xml_logical_path": "bgu/bgu.7/bgu.7.1505.xml",
+      "xml_sha256": "64c39e022b59dd1ad0ef2816bdba7bccfa9cab47ccf90dff3fb929e900ab2a05"
+    },
+    {
+      "attribution": "Duke Databank of Documentary Papyri / DC3",
+      "blocks": {
+        "e0:b2": "f013493b80b82ed7a6d7265cf32a843e269425dae98b7f0c3051079508154914"
+      },
+      "doc_id": "bgu;9;1895",
+      "license_urls": [
+        "http://creativecommons.org/licenses/by/3.0/"
+      ],
+      "source_url": "https://papyri.info/ddbdp/bgu;9;1895",
+      "xml_logical_path": "bgu/bgu.9/bgu.9.1895.xml",
+      "xml_sha256": "eea8fdc04beb2a767de1e31c0a844cbf1c7226b3f14a0808a5605163ce6c8484"
+    },
+    {
+      "attribution": "Duke Databank of Documentary Papyri / DC3",
+      "blocks": {
+        "e0:b0": "af9df25b3bb926de17d80505bcbac2799fb3e4f0a53091e472a40fd3ef64e370"
+      },
+      "doc_id": "chr.wilck;;497",
+      "license_urls": [
+        "http://creativecommons.org/licenses/by/3.0/"
+      ],
+      "source_url": "https://papyri.info/ddbdp/chr.wilck;;497",
+      "xml_logical_path": "chr.wilck/chr.wilck.497.xml",
+      "xml_sha256": "456180e1fff107442c7dac4df4c29da52a8f362fecef41df34dea74b3855add3"
+    },
+    {
+      "attribution": "Duke Databank of Documentary Papyri / DC3",
+      "blocks": {
+        "e0:b0": "876fc829d987d45fe980692b61bcaff8aaab5b30e52dcf9592d06855f23434b2"
+      },
+      "doc_id": "chr.wilck;;93",
+      "license_urls": [
+        "http://creativecommons.org/licenses/by/3.0/"
+      ],
+      "source_url": "https://papyri.info/ddbdp/chr.wilck;;93",
+      "xml_logical_path": "chr.wilck/chr.wilck.93.xml",
+      "xml_sha256": "2a7d0de015757011cd532f2c87cab18478ad4045777043e6eafc4ef9e19095fb"
+    },
+    {
+      "attribution": "Duke Databank of Documentary Papyri / DC3",
+      "blocks": {
+        "e0:b0": "06f04426c468bafee5d65e391bfc3130672796220f3c38b45f75920813346651"
+      },
+      "doc_id": "cpr;17A;37",
+      "license_urls": [
+        "http://creativecommons.org/licenses/by/3.0/"
+      ],
+      "source_url": "https://papyri.info/ddbdp/cpr;17A;37",
+      "xml_logical_path": "cpr/cpr.17A/cpr.17A.37.xml",
+      "xml_sha256": "7c0d8a599a8a98e18ef27848bbaf60aba7ac5d24fb8ab36fe5db8ea4d1eabbc2"
+    },
+    {
+      "attribution": "Duke Databank of Documentary Papyri / DC3",
+      "blocks": {
+        "e0:b0": "34e749aec096d495ea91c162c82686a3d4d80fc59f3ecea6a6c038ac8bdd233b"
+      },
+      "doc_id": "o.bodl;2;1630",
+      "license_urls": [
+        "http://creativecommons.org/licenses/by/3.0/"
+      ],
+      "source_url": "https://papyri.info/ddbdp/o.bodl;2;1630",
+      "xml_logical_path": "o.bodl/o.bodl.2/o.bodl.2.1630.xml",
+      "xml_sha256": "5ece14ee95709802b1ab1384d9d86bf0b6468df2321c33e9950178b68f5030cc"
+    },
+    {
+      "attribution": "Duke Databank of Documentary Papyri / DC3",
+      "blocks": {
+        "e0:b0": "fb4f8c0461045566d0237a28150cd207f9bf648c206fd7f75e3279646d143014"
+      },
+      "doc_id": "o.bodl;2;1632",
+      "license_urls": [
+        "http://creativecommons.org/licenses/by/3.0/"
+      ],
+      "source_url": "https://papyri.info/ddbdp/o.bodl;2;1632",
+      "xml_logical_path": "o.bodl/o.bodl.2/o.bodl.2.1632.xml",
+      "xml_sha256": "53d31739eaa78cd7691d578aff3e13ce7e4c73b9b5d1d3cca29b92ee4bd86b1c"
+    },
+    {
+      "attribution": "Duke Databank of Documentary Papyri / DC3",
+      "blocks": {
+        "e0:b0": "8b8b56646292c12419111dfc98527c098dd35f272925b61b82f4f79980bd1b31"
+      },
+      "doc_id": "o.camb;;67",
+      "license_urls": [
+        "http://creativecommons.org/licenses/by/3.0/"
+      ],
+      "source_url": "https://papyri.info/ddbdp/o.camb;;67",
+      "xml_logical_path": "o.camb/o.camb.67.xml",
+      "xml_sha256": "d634016899e7bc174af4897f5fd5599131cbbec69108d34a6de4923b06a315b6"
+    },
+    {
+      "attribution": "Duke Databank of Documentary Papyri / DC3",
+      "blocks": {
+        "e0:b0": "4bc8301b7a3945415e3cab5b0d8007500af718b090021b55a1154720786c0957"
+      },
+      "doc_id": "o.edfou;2;257",
+      "license_urls": [
+        "http://creativecommons.org/licenses/by/3.0/"
+      ],
+      "source_url": "https://papyri.info/ddbdp/o.edfou;2;257",
+      "xml_logical_path": "o.edfou/o.edfou.2/o.edfou.2.257.xml",
+      "xml_sha256": "114468f1583c0d4b9ae936da0502753348ac3de54b5632199858dfdbad6f62e0"
+    },
+    {
+      "attribution": "Duke Databank of Documentary Papyri / DC3",
+      "blocks": {
+        "e0:b0": "05568fbb100f212f26dda35f5e32164bc272bdb0dba10f326f29ca139d0c7990"
+      },
+      "doc_id": "p.abinn;;67r",
+      "license_urls": [
+        "http://creativecommons.org/licenses/by/3.0/"
+      ],
+      "source_url": "https://papyri.info/ddbdp/p.abinn;;67r",
+      "xml_logical_path": "p.abinn/p.abinn.67r.xml",
+      "xml_sha256": "7fc4f07808a9fddc43455b020999f8357b5bbe98f4b2956a225cfd1afee0a135"
+    },
+    {
+      "attribution": "Duke Databank of Documentary Papyri / DC3",
+      "blocks": {
+        "e0:b0": "5010b91964ecbe7057fa356b3ecc98499859617765f8fe8bdb83154f7f12bf4a"
+      },
+      "doc_id": "p.amh;2;137",
+      "license_urls": [
+        "http://creativecommons.org/licenses/by/3.0/"
+      ],
+      "source_url": "https://papyri.info/ddbdp/p.amh;2;137",
+      "xml_logical_path": "p.amh/p.amh.2/p.amh.2.137.xml",
+      "xml_sha256": "456e807aee7d79deae078acefca5534d34168ab78c713d1e5d951ff5df78456f"
+    },
+    {
+      "attribution": "Duke Databank of Documentary Papyri / DC3",
+      "blocks": {
+        "e0:b11": "07fd8530144cd7eba8787098d013c0c6811ad8a1c4b589f32da792e04885b1a6"
+      },
+      "doc_id": "p.bad;4;95",
+      "license_urls": [
+        "http://creativecommons.org/licenses/by/3.0/"
+      ],
+      "source_url": "https://papyri.info/ddbdp/p.bad;4;95",
+      "xml_logical_path": "p.bad/p.bad.4/p.bad.4.95.xml",
+      "xml_sha256": "fe278d39ed7ecff96c6838ac7c1e90ca00d56683b6d498aecb31852403dfe36f"
+    },
+    {
+      "attribution": "Duke Databank of Documentary Papyri / DC3",
+      "blocks": {
+        "e0:b0": "e15cc492686b580576ab97375613b7222a41ac2a2bda37ba0d7bf025187912fe"
+      },
+      "doc_id": "p.brook;;3",
+      "license_urls": [
+        "http://creativecommons.org/licenses/by/3.0/"
+      ],
+      "source_url": "https://papyri.info/ddbdp/p.brook;;3",
+      "xml_logical_path": "p.brook/p.brook.3.xml",
+      "xml_sha256": "54a3cd3e8bbad2053e550577a6dbba30cc20ab2a7570d27e8afacd41bc373e8b"
+    },
+    {
+      "attribution": "Duke Databank of Documentary Papyri / DC3",
+      "blocks": {
+        "e0:b1": "0ff3cdcc3e34a3481fb3e2630aadb15e592d4abf5afc6b3efe110d400f43c2ce"
+      },
+      "doc_id": "p.cair.isid;;50",
+      "license_urls": [
+        "http://creativecommons.org/licenses/by/3.0/"
+      ],
+      "source_url": "https://papyri.info/ddbdp/p.cair.isid;;50",
+      "xml_logical_path": "p.cair.isid/p.cair.isid.50.xml",
+      "xml_sha256": "70ba4c9c6964601a47482a1ab33ba210161f43e24cc61ce8c516e1e52c9b8f13"
+    },
+    {
+      "attribution": "Duke Databank of Documentary Papyri / DC3",
+      "blocks": {
+        "e0:b0": "36c8734636ee49516dc48509a199ca793597b60117b658c06ecbed5fc7fa56e0"
+      },
+      "doc_id": "p.cair.isid;;58",
+      "license_urls": [
+        "http://creativecommons.org/licenses/by/3.0/"
+      ],
+      "source_url": "https://papyri.info/ddbdp/p.cair.isid;;58",
+      "xml_logical_path": "p.cair.isid/p.cair.isid.58.xml",
+      "xml_sha256": "866bb6c63de5dd60b5982b96d5ac67f783867829f95e54418b5f738a37d232cc"
+    },
+    {
+      "attribution": "Duke Databank of Documentary Papyri / DC3",
+      "blocks": {
+        "e0:b0": "999d3d0447d5528961ab582d31c8409dc3f92554dde3a826bfbfe982e743091f"
+      },
+      "doc_id": "p.cair.isid;;74dupl",
+      "license_urls": [
+        "http://creativecommons.org/licenses/by/3.0/"
+      ],
+      "source_url": "https://papyri.info/ddbdp/p.cair.isid;;74dupl",
+      "xml_logical_path": "p.cair.isid/p.cair.isid.74dupl.xml",
+      "xml_sha256": "f5bbfc7cadeb6a5b1f9d1e424c661334dfc1783263e69e7f5136922f6e414813"
+    },
+    {
+      "attribution": "Duke Databank of Documentary Papyri / DC3",
+      "blocks": {
+        "e0:b3": "cca1821e60a82ca1493a04e6327ee94bbc502ebb9e892fb977450993a17dcf9d"
+      },
+      "doc_id": "p.cair.zen;3;59325",
+      "license_urls": [
+        "http://creativecommons.org/licenses/by/3.0/"
+      ],
+      "source_url": "https://papyri.info/ddbdp/p.cair.zen;3;59325",
+      "xml_logical_path": "p.cair.zen/p.cair.zen.3/p.cair.zen.3.59325.xml",
+      "xml_sha256": "8e2403248f8f961557a1aafaa64e5b0ac9eafac4b518134edbb4ca435a99cac5"
+    },
+    {
+      "attribution": "Duke Databank of Documentary Papyri / DC3",
+      "blocks": {
+        "e0:b0": "cb5d0c8a2d3a7b289511e385984924128239e3452ffcad6da0124764ee0f62e0"
+      },
+      "doc_id": "p.cair.zen;3;59499",
+      "license_urls": [
+        "http://creativecommons.org/licenses/by/3.0/"
+      ],
+      "source_url": "https://papyri.info/ddbdp/p.cair.zen;3;59499",
+      "xml_logical_path": "p.cair.zen/p.cair.zen.3/p.cair.zen.3.59499.xml",
+      "xml_sha256": "20a5f40732660deb0628fb8a05e0da77e710c381f3d5f54d07cd72b9b07a8cb3"
+    },
+    {
+      "attribution": "Duke Databank of Documentary Papyri / DC3",
+      "blocks": {
+        "e0:b0": "0e48713ed90f50ba8f19cc36dae1ae8aaf1ec595f1eb1fe8345957829e8f37b5"
+      },
+      "doc_id": "p.cair.zen;3;59522",
+      "license_urls": [
+        "http://creativecommons.org/licenses/by/3.0/"
+      ],
+      "source_url": "https://papyri.info/ddbdp/p.cair.zen;3;59522",
+      "xml_logical_path": "p.cair.zen/p.cair.zen.3/p.cair.zen.3.59522.xml",
+      "xml_sha256": "8b41219f0edc36fcda23b07a3c310e72b98942575877cc415a5a3c8ff75f3c3a"
+    },
+    {
+      "attribution": "Duke Databank of Documentary Papyri / DC3",
+      "blocks": {
+        "e0:b0": "e983f7bbc1161380e0b25e0d2833c89b03065b00a47b03a07cc48e4268eeb18e"
+      },
+      "doc_id": "p.cair.zen;4;59724",
+      "license_urls": [
+        "http://creativecommons.org/licenses/by/3.0/"
+      ],
+      "source_url": "https://papyri.info/ddbdp/p.cair.zen;4;59724",
+      "xml_logical_path": "p.cair.zen/p.cair.zen.4/p.cair.zen.4.59724.xml",
+      "xml_sha256": "2e05454ff5e30cd1a9f77d661bc818a93c56fb48535af232c6a755aa3ab3247b"
+    },
+    {
+      "attribution": "Duke Databank of Documentary Papyri / DC3",
+      "blocks": {
+        "e0:b0": "366ded59953ca19625adee2623b17e42820a80f38c385b6f7efcfc868f0bfeb8"
+      },
+      "doc_id": "p.cair.zen;4;59727",
+      "license_urls": [
+        "http://creativecommons.org/licenses/by/3.0/"
+      ],
+      "source_url": "https://papyri.info/ddbdp/p.cair.zen;4;59727",
+      "xml_logical_path": "p.cair.zen/p.cair.zen.4/p.cair.zen.4.59727.xml",
+      "xml_sha256": "7b0601578e0fa94639a106617434f77d9bf5b9e79cee2f0f14d1b999b01fcf64"
+    },
+    {
+      "attribution": "Duke Databank of Documentary Papyri / DC3",
+      "blocks": {
+        "e0:b3": "04c3e3ed53db2badaee06823471a7346e23af25f26b6587e2d8ff2e10a600923"
+      },
+      "doc_id": "p.cair.zen;4;59745",
+      "license_urls": [
+        "http://creativecommons.org/licenses/by/3.0/"
+      ],
+      "source_url": "https://papyri.info/ddbdp/p.cair.zen;4;59745",
+      "xml_logical_path": "p.cair.zen/p.cair.zen.4/p.cair.zen.4.59745.xml",
+      "xml_sha256": "efa8464d6379420852a753c48c121e9aa2b6fda0625b9b7d80d0ab22e33a73a6"
+    },
+    {
+      "attribution": "Duke Databank of Documentary Papyri / DC3",
+      "blocks": {
+        "e0:b0": "8e885a9aa531798c36d3d7adce4fa79b3f01820d53d44fe453feff2b4758ff4f"
+      },
+      "doc_id": "p.col;10;286",
+      "license_urls": [
+        "http://creativecommons.org/licenses/by/3.0/"
+      ],
+      "source_url": "https://papyri.info/ddbdp/p.col;10;286",
+      "xml_logical_path": "p.col/p.col.10/p.col.10.286.xml",
+      "xml_sha256": "d73ceda7fcb3c2cc12655710b1e56972c63bd9203c4db4505286f12c55688188"
+    },
+    {
+      "attribution": "Duke Databank of Documentary Papyri / DC3",
+      "blocks": {
+        "e0:b1": "0a9e694337be9510003b759bdb0255cda4b3f6c1027b659f58ae17c495871e6e"
+      },
+      "doc_id": "p.col;2;1r_4col18",
+      "license_urls": [
+        "http://creativecommons.org/licenses/by/3.0/"
+      ],
+      "source_url": "https://papyri.info/ddbdp/p.col;2;1r_4col18",
+      "xml_logical_path": "p.col/p.col.2/p.col.2.1r_4col18.xml",
+      "xml_sha256": "4fddb0055541d1e25477acc9a2b91834cd367144720a3255a9f6fdd499bd33d9"
+    },
+    {
+      "attribution": "Duke Databank of Documentary Papyri / DC3",
+      "blocks": {
+        "e0:b1": "a3ef2ae084086fe7f320d2bba871e3da0140083771c11eb6ecd6adc15d9864f6"
+      },
+      "doc_id": "p.col;2;1r_4col4",
+      "license_urls": [
+        "http://creativecommons.org/licenses/by/3.0/"
+      ],
+      "source_url": "https://papyri.info/ddbdp/p.col;2;1r_4col4",
+      "xml_logical_path": "p.col/p.col.2/p.col.2.1r_4col4.xml",
+      "xml_sha256": "846f5958208018ae9b8577d09206dceb5554e273b9d6d83018adff2eaf0bbd8e"
+    },
+    {
+      "attribution": "Duke Databank of Documentary Papyri / DC3",
+      "blocks": {
+        "e0:b1": "427806bab700da3b226625223cf245ea87483edda07fe45efa5764e7237d1066"
+      },
+      "doc_id": "p.col;2;1r_4col7",
+      "license_urls": [
+        "http://creativecommons.org/licenses/by/3.0/"
+      ],
+      "source_url": "https://papyri.info/ddbdp/p.col;2;1r_4col7",
+      "xml_logical_path": "p.col/p.col.2/p.col.2.1r_4col7.xml",
+      "xml_sha256": "59a63b9c2d43ce81997d827baf681ef063b50ffdf64e612b67183109ae18d109"
+    },
+    {
+      "attribution": "Duke Databank of Documentary Papyri / DC3",
+      "blocks": {
+        "e0:b0": "d96274818b1f42926b0069a007d930f3eb683bf042f268ddce69b046b5417640"
+      },
+      "doc_id": "p.col;3;54",
+      "license_urls": [
+        "http://creativecommons.org/licenses/by/3.0/"
+      ],
+      "source_url": "https://papyri.info/ddbdp/p.col;3;54",
+      "xml_logical_path": "p.col/p.col.3/p.col.3.54.xml",
+      "xml_sha256": "c850a08617b8d51e59f725a14f9b0e3292bb1a273adbf745b69d88c4c5184814"
+    },
+    {
+      "attribution": "Duke Databank of Documentary Papyri / DC3",
+      "blocks": {
+        "e0:b0": "c39c9a61f4d0e654f3aa559de616b6826c534b3708ea2f3f09b4aa070612672a"
+      },
+      "doc_id": "p.col;7;182",
+      "license_urls": [
+        "http://creativecommons.org/licenses/by/3.0/"
+      ],
+      "source_url": "https://papyri.info/ddbdp/p.col;7;182",
+      "xml_logical_path": "p.col/p.col.7/p.col.7.182.xml",
+      "xml_sha256": "3e3b705fa6655500df79f4adfc43e4a9803c6616c62ed15ac190af33307a8bc8"
+    },
+    {
+      "attribution": "Duke Databank of Documentary Papyri / DC3",
+      "blocks": {
+        "e0:b0": "1a5e9d7616752df45eb9483979dec96edb1f5dc9982fe29d3662ef9b601bbe09"
+      },
+      "doc_id": "p.customs;;733/884",
+      "license_urls": [
+        "http://creativecommons.org/licenses/by/3.0/"
+      ],
+      "source_url": "https://papyri.info/ddbdp/p.customs;;733/884",
+      "xml_logical_path": "p.customs/p.customs.733_884.xml",
+      "xml_sha256": "690467b8d79afde6effef94d55b5c4eebe1e492f72fd85024d6305b9ae2806c7"
+    },
+    {
+      "attribution": "Duke Databank of Documentary Papyri / DC3",
+      "blocks": {
+        "e0:b0": "af716e19bdbcc8162f21af7b9dffd780a8e61ea9141491d14cde56a633017976"
+      },
+      "doc_id": "p.dion;;19",
+      "license_urls": [
+        "http://creativecommons.org/licenses/by/3.0/"
+      ],
+      "source_url": "https://papyri.info/ddbdp/p.dion;;19",
+      "xml_logical_path": "p.dion/p.dion.19.xml",
+      "xml_sha256": "a797d2eee1809db347f97f9d4251e440f54669d6c7789167edceadc035b66978"
+    },
+    {
+      "attribution": "Duke Databank of Documentary Papyri / DC3",
+      "blocks": {
+        "e0:b0": "6b44f3d743407f8fcd1ea6ad6b2e2032093b0e13134c30102968519d2684c782"
+      },
+      "doc_id": "p.eirene;3;36",
+      "license_urls": [
+        "http://creativecommons.org/licenses/by/3.0/"
+      ],
+      "source_url": "https://papyri.info/ddbdp/p.eirene;3;36",
+      "xml_logical_path": "p.eirene/p.eirene.3/p.eirene.3.36.xml",
+      "xml_sha256": "6198f1b871bb7ab26152acd63464574f25f7c2a9ecf54481bef010f2d7fc115a"
+    },
+    {
+      "attribution": "Duke Databank of Documentary Papyri / DC3",
+      "blocks": {
+        "e0:b0": "e4701112c4e43007063effc1fc9ae5af3e390dba438dc944a8f8cce91c5d455d"
+      },
+      "doc_id": "p.erasm;2;43",
+      "license_urls": [
+        "http://creativecommons.org/licenses/by/3.0/"
+      ],
+      "source_url": "https://papyri.info/ddbdp/p.erasm;2;43",
+      "xml_logical_path": "p.erasm/p.erasm.2/p.erasm.2.43.xml",
+      "xml_sha256": "b88ecd3097155d9918c12b5e67e0f100ab8b2df5a31f6c55b69ffc56f295fe39"
+    },
+    {
+      "attribution": "Duke Databank of Documentary Papyri / DC3",
+      "blocks": {
+        "e0:b0": "c00c8dde004b997ababb40d8b98ba4d464ded9a1082cd3bf58cbd6d3f02bdf0e"
+      },
+      "doc_id": "p.erasm;2;51a",
+      "license_urls": [
+        "http://creativecommons.org/licenses/by/3.0/"
+      ],
+      "source_url": "https://papyri.info/ddbdp/p.erasm;2;51a",
+      "xml_logical_path": "p.erasm/p.erasm.2/p.erasm.2.51a.xml",
+      "xml_sha256": "7b0d6a251f78a9790d99f096b8063b2dfcf2f46ddaca1ad55af0f476532fb172"
+    },
+    {
+      "attribution": "Duke Databank of Documentary Papyri / DC3",
+      "blocks": {
+        "e0:b0": "cf2fa678761955223ab8c8720d037de610345663d8a3a8cb44f6136d8e4ec32c"
+      },
+      "doc_id": "p.erasm;2;53",
+      "license_urls": [
+        "http://creativecommons.org/licenses/by/3.0/"
+      ],
+      "source_url": "https://papyri.info/ddbdp/p.erasm;2;53",
+      "xml_logical_path": "p.erasm/p.erasm.2/p.erasm.2.53.xml",
+      "xml_sha256": "3d86c0c3044baf315747b08079bd0f510d3c5452d251174c2952cd149b639f30"
+    },
+    {
+      "attribution": "Duke Databank of Documentary Papyri / DC3",
+      "blocks": {
+        "e0:b0": "e775d7f5612f75b420ab10f29eefd2bdf076f8adb1fca90dab520243bec510bc"
+      },
+      "doc_id": "p.flor;3;340",
+      "license_urls": [
+        "http://creativecommons.org/licenses/by/3.0/"
+      ],
+      "source_url": "https://papyri.info/ddbdp/p.flor;3;340",
+      "xml_logical_path": "p.flor/p.flor.3/p.flor.3.340.xml",
+      "xml_sha256": "caf4b625fba3f0fc18eda98c5adfdb740bea04ecc3da1150dfda9b40dedb3dee"
+    },
+    {
+      "attribution": "Duke Databank of Documentary Papyri / DC3",
+      "blocks": {
+        "e0:b0": "3d99cef71ee74001f1c71786f3107502ce613eeb563210806d89dc01fd44624c"
+      },
+      "doc_id": "p.fouad;1;43",
+      "license_urls": [
+        "http://creativecommons.org/licenses/by/3.0/"
+      ],
+      "source_url": "https://papyri.info/ddbdp/p.fouad;1;43",
+      "xml_logical_path": "p.fouad/p.fouad.1/p.fouad.1.43.xml",
+      "xml_sha256": "058c3afc64bbeac274eddc1782b6867b06ed3be91c066619fb018ba9eec87208"
+    },
+    {
+      "attribution": "Duke Databank of Documentary Papyri / DC3",
+      "blocks": {
+        "e0:b0": "da9c2027c2f59791f2daca45b479d20b421e974fddd1a408468d8dbb8a68ffa7"
+      },
+      "doc_id": "p.frankf;;1",
+      "license_urls": [
+        "http://creativecommons.org/licenses/by/3.0/"
+      ],
+      "source_url": "https://papyri.info/ddbdp/p.frankf;;1",
+      "xml_logical_path": "p.frankf/p.frankf.1.xml",
+      "xml_sha256": "f994d0a97b6e0fdb53898014ab21c82bea4a2d932c1d453cb009360d21ffb480"
+    },
+    {
+      "attribution": "Duke Databank of Documentary Papyri / DC3",
+      "blocks": {
+        "e0:b1": "df82bcb88be85b73ec77c72dd2d56cbda7a8e73ca2827cf14a1bd7c59fff99e7"
+      },
+      "doc_id": "p.freib;3;34",
+      "license_urls": [
+        "http://creativecommons.org/licenses/by/3.0/"
+      ],
+      "source_url": "https://papyri.info/ddbdp/p.freib;3;34",
+      "xml_logical_path": "p.freib/p.freib.3/p.freib.3.34.xml",
+      "xml_sha256": "98854d48cd5446c37e995b7e550fb328df6166ae2995f7a5a792d05117a8371b"
+    },
+    {
+      "attribution": "Duke Databank of Documentary Papyri / DC3",
+      "blocks": {
+        "e0:b1": "aebc946e3b80d68d7d8cc04fa4d67bb544085c7d5ede299440f54ebe5389995f"
+      },
+      "doc_id": "p.giss;1;60",
+      "license_urls": [
+        "http://creativecommons.org/licenses/by/3.0/"
+      ],
+      "source_url": "https://papyri.info/ddbdp/p.giss;1;60",
+      "xml_logical_path": "p.giss/p.giss.1/p.giss.1.60.xml",
+      "xml_sha256": "b173365d6f67e7ed6d698d646c8e6f72fb41835e5f0a52db8af1ea37665b2569"
+    },
+    {
+      "attribution": "Duke Databank of Documentary Papyri / DC3",
+      "blocks": {
+        "e0:b0": "2c3905e3e85cbb8cef5684b8865439ab35e606c602039226d4b5860ad71c1018"
+      },
+      "doc_id": "p.graux;2;10",
+      "license_urls": [
+        "http://creativecommons.org/licenses/by/3.0/"
+      ],
+      "source_url": "https://papyri.info/ddbdp/p.graux;2;10",
+      "xml_logical_path": "p.graux/p.graux.2/p.graux.2.10.xml",
+      "xml_sha256": "e63beae971f476c6af3c78a8cbf8bee8fe95b5cb9f15b4762d07fab2ce372c73"
+    },
+    {
+      "attribution": "Duke Databank of Documentary Papyri / DC3",
+      "blocks": {
+        "e0:b0": "fd01785d45b85d17e56bb6c6ad3b9094c06632e0bcb72510b4c68713d50a935c"
+      },
+      "doc_id": "p.graux;3;30col10",
+      "license_urls": [
+        "http://creativecommons.org/licenses/by/3.0/"
+      ],
+      "source_url": "https://papyri.info/ddbdp/p.graux;3;30col10",
+      "xml_logical_path": "p.graux/p.graux.3/p.graux.3.30col10.xml",
+      "xml_sha256": "4c67106fdbc46c30346b4401135f7bb88c21df8ee35d0b8a960fe9ddbec52979"
+    },
+    {
+      "attribution": "Duke Databank of Documentary Papyri / DC3",
+      "blocks": {
+        "e0:b0": "df86a21f0a8b191f18267a94920affcc8543e45bd052fc3358f7b5984b487db7"
+      },
+      "doc_id": "p.graux;3;30col2",
+      "license_urls": [
+        "http://creativecommons.org/licenses/by/3.0/"
+      ],
+      "source_url": "https://papyri.info/ddbdp/p.graux;3;30col2",
+      "xml_logical_path": "p.graux/p.graux.3/p.graux.3.30col2.xml",
+      "xml_sha256": "25ab1c96f43a02a2ebe261805888eab78ad20b11130c2fd7a8e756e27a6e8ea7"
+    },
+    {
+      "attribution": "Duke Databank of Documentary Papyri / DC3",
+      "blocks": {
+        "e0:b0": "317e79ed20b674239f81a6de59b7cad30e51f1ce8aebf43c820465097d378ab0"
+      },
+      "doc_id": "p.graux;3;30col3",
+      "license_urls": [
+        "http://creativecommons.org/licenses/by/3.0/"
+      ],
+      "source_url": "https://papyri.info/ddbdp/p.graux;3;30col3",
+      "xml_logical_path": "p.graux/p.graux.3/p.graux.3.30col3.xml",
+      "xml_sha256": "520e566c7573a8584ca3341e19bc4ee043e1ee8256735690101c8b4c5179b06a"
+    },
+    {
+      "attribution": "Duke Databank of Documentary Papyri / DC3",
+      "blocks": {
+        "e0:b0": "ce78e6d68ac760b942b18ead699e1f7662e618bf79f18ba805bd269734c6dcbe"
+      },
+      "doc_id": "p.graux;3;30col9",
+      "license_urls": [
+        "http://creativecommons.org/licenses/by/3.0/"
+      ],
+      "source_url": "https://papyri.info/ddbdp/p.graux;3;30col9",
+      "xml_logical_path": "p.graux/p.graux.3/p.graux.3.30col9.xml",
+      "xml_sha256": "ab67b117dfe63f847a6ebdf37c7961e6ab4d0a59d180ebd23bb3efff93aaa09f"
+    },
+    {
+      "attribution": "Duke Databank of Documentary Papyri / DC3",
+      "blocks": {
+        "e0:b0": "140a59d29eebe997c9385bc8a16fc5594b33ce5fea3efd9d36d0088227d832f1"
+      },
+      "doc_id": "p.harrauer;;59",
+      "license_urls": [
+        "http://creativecommons.org/licenses/by/3.0/"
+      ],
+      "source_url": "https://papyri.info/ddbdp/p.harrauer;;59",
+      "xml_logical_path": "p.harrauer/p.harrauer.59.xml",
+      "xml_sha256": "62d45254f1fe85a6da3cf5e25b84ea04859ed04be5a5b512cf52cc0c6f16bc56"
+    },
+    {
+      "attribution": "Duke Databank of Documentary Papyri / DC3",
+      "blocks": {
+        "e0:b1": "566ad2d72827c80a4b67acb63cba24d7a32f3c9549660f910ec72689783030bc"
+      },
+      "doc_id": "p.herakl.bank;;2",
+      "license_urls": [
+        "http://creativecommons.org/licenses/by/3.0/"
+      ],
+      "source_url": "https://papyri.info/ddbdp/p.herakl.bank;;2",
+      "xml_logical_path": "p.herakl.bank/p.herakl.bank.2.xml",
+      "xml_sha256": "3841397a801c37f6ad59ae5ce58d4bf07dd4c421010a09aed1f5208f7b23b805"
+    },
+    {
+      "attribution": "Duke Databank of Documentary Papyri / DC3",
+      "blocks": {
+        "e0:b0": "53e10f4323e9a39f1cc5795aafd11332ef0934325bfe000fc0c8f9fec2e11c8c"
+      },
+      "doc_id": "p.iand;3;45",
+      "license_urls": [
+        "http://creativecommons.org/licenses/by/3.0/"
+      ],
+      "source_url": "https://papyri.info/ddbdp/p.iand;3;45",
+      "xml_logical_path": "p.iand/p.iand.3/p.iand.3.45.xml",
+      "xml_sha256": "f2fa0bd44a964b9bbd02e6927ea19a7258b0451a6f895aaa72c894587ecf5ba0"
+    },
+    {
+      "attribution": "Duke Databank of Documentary Papyri / DC3",
+      "blocks": {
+        "e0:b1": "9ba54ff5b972faf92137e490276128ce69ce57b04138f99d05a98bab3e8142af"
+      },
+      "doc_id": "p.jena;2;35",
+      "license_urls": [
+        "http://creativecommons.org/licenses/by/3.0/"
+      ],
+      "source_url": "https://papyri.info/ddbdp/p.jena;2;35",
+      "xml_logical_path": "p.jena/p.jena.2/p.jena.2.35.xml",
+      "xml_sha256": "671823112e8c1dc08a4781a191d93da16c818d9807e20a5d1394a9fd39013605"
+    },
+    {
+      "attribution": "Duke Databank of Documentary Papyri / DC3",
+      "blocks": {
+        "e0:b0": "730d6e3bdcfa5d2833cd07c1dc0560011def9e950a670e2e7b3b95ddd6946c24"
+      },
+      "doc_id": "p.koeln;17;670",
+      "license_urls": [
+        "http://creativecommons.org/licenses/by/3.0/"
+      ],
+      "source_url": "https://papyri.info/ddbdp/p.koeln;17;670",
+      "xml_logical_path": "p.koeln/p.koeln.17/p.koeln.17.670.xml",
+      "xml_sha256": "64f3d7d22aec42b74a16d5a01bc12a562ef828d3470b2a8893c1da2c512f3cef"
+    },
+    {
+      "attribution": "Duke Databank of Documentary Papyri / DC3",
+      "blocks": {
+        "e0:b0": "99c61266ad12a8958a8d4216f12fa6a6051ef60421d3d5b9f9e6361bffe07f7f"
+      },
+      "doc_id": "p.laur;1;11r",
+      "license_urls": [
+        "http://creativecommons.org/licenses/by/3.0/"
+      ],
+      "source_url": "https://papyri.info/ddbdp/p.laur;1;11r",
+      "xml_logical_path": "p.laur/p.laur.1/p.laur.1.11r.xml",
+      "xml_sha256": "141b4521ba24f4f77198db863274824f01a4a9c88151e2a113ab1cf76157f43c"
+    },
+    {
+      "attribution": "Duke Databank of Documentary Papyri / DC3",
+      "blocks": {
+        "e0:b0": "6de6afa60b46fbb1109219def7edc4dd6479b2692717b2087456bce6166d5f36"
+      },
+      "doc_id": "p.laur;4;171",
+      "license_urls": [
+        "http://creativecommons.org/licenses/by/3.0/"
+      ],
+      "source_url": "https://papyri.info/ddbdp/p.laur;4;171",
+      "xml_logical_path": "p.laur/p.laur.4/p.laur.4.171.xml",
+      "xml_sha256": "3700d6773cac2604676ddd4f095814ae3098524eeb9f341ca58af2f61104b57f"
+    },
+    {
+      "attribution": "Duke Databank of Documentary Papyri / DC3",
+      "blocks": {
+        "e0:b1": "6353a2595a84dfea7dbb1de6908991a16ae5987a278d8458e02a808155514831"
+      },
+      "doc_id": "p.lille;1;31",
+      "license_urls": [
+        "http://creativecommons.org/licenses/by/3.0/"
+      ],
+      "source_url": "https://papyri.info/ddbdp/p.lille;1;31",
+      "xml_logical_path": "p.lille/p.lille.1/p.lille.1.31.xml",
+      "xml_sha256": "fd2752f3635fe404deb918c7ce44ebb97fa2dc87e8b409633b54a9f849b7dc17"
+    },
+    {
+      "attribution": "Duke Databank of Documentary Papyri / DC3",
+      "blocks": {
+        "e0:b59": "baaad4ba83903ce23cde33f033347d6717490e049413fc305068ef236bad7578",
+        "e0:b71": "908639772316a62b039885ced699d07519771d56173021a25218cbd1947c601a"
+      },
+      "doc_id": "p.lond;4;1419",
+      "license_urls": [
+        "http://creativecommons.org/licenses/by/3.0/"
+      ],
+      "source_url": "https://papyri.info/ddbdp/p.lond;4;1419",
+      "xml_logical_path": "p.lond/p.lond.4/p.lond.4.1419.xml",
+      "xml_sha256": "fa5173323e7a5a83902385b3f5546c1665f1ad4d9f46a7b1989a7d4c2eab22e1"
+    },
+    {
+      "attribution": "Duke Databank of Documentary Papyri / DC3",
+      "blocks": {
+        "e0:b4": "d6d2410a07dd5884a18fb5b2a757121efb554ece8c8e443947ca2a529abb3a3f"
+      },
+      "doc_id": "p.lond;4;1421",
+      "license_urls": [
+        "http://creativecommons.org/licenses/by/3.0/"
+      ],
+      "source_url": "https://papyri.info/ddbdp/p.lond;4;1421",
+      "xml_logical_path": "p.lond/p.lond.4/p.lond.4.1421.xml",
+      "xml_sha256": "9d2cbe0b16da46364d5b82ea9eb614bc20703959beb3ea738aff1aa258f5a708"
+    },
+    {
+      "attribution": "Duke Databank of Documentary Papyri / DC3",
+      "blocks": {
+        "e0:b0": "d6f45ccaba46c31e65ca10b091e0439de99e7d193102709ea328750cda2d59c3"
+      },
+      "doc_id": "p.lond;7;1940",
+      "license_urls": [
+        "http://creativecommons.org/licenses/by/3.0/"
+      ],
+      "source_url": "https://papyri.info/ddbdp/p.lond;7;1940",
+      "xml_logical_path": "p.lond/p.lond.7/p.lond.7.1940.xml",
+      "xml_sha256": "83b77f91b597cf98a6b78fd51605bf5d4b479bb49faae5b6452dd06fba4e950f"
+    },
+    {
+      "attribution": "Duke Databank of Documentary Papyri / DC3",
+      "blocks": {
+        "e0:b4": "08b96ccfe40e8276a785a650d393736cdc830902a4bc1a0bdbd17b5743d349d7"
+      },
+      "doc_id": "p.louvre;1;51",
+      "license_urls": [
+        "http://creativecommons.org/licenses/by/3.0/"
+      ],
+      "source_url": "https://papyri.info/ddbdp/p.louvre;1;51",
+      "xml_logical_path": "p.louvre/p.louvre.1/p.louvre.1.51.xml",
+      "xml_sha256": "3c8a0cc7949bc102569da23a8ecae41c31118afc31325a6e65188915a8ab3cdb"
+    },
+    {
+      "attribution": "Duke Databank of Documentary Papyri / DC3",
+      "blocks": {
+        "e0:b1": "7dee54b8e4e474e0f1d4fe76579aa544e0a833d317d0d84a9f52591e07982813"
+      },
+      "doc_id": "p.louvre;1;54",
+      "license_urls": [
+        "http://creativecommons.org/licenses/by/3.0/"
+      ],
+      "source_url": "https://papyri.info/ddbdp/p.louvre;1;54",
+      "xml_logical_path": "p.louvre/p.louvre.1/p.louvre.1.54.xml",
+      "xml_sha256": "7410d8b12cae942ef8dea5eee0ce0ff7120556f0d32fc714759d7dee5883578c"
+    },
+    {
+      "attribution": "Duke Databank of Documentary Papyri / DC3",
+      "blocks": {
+        "e0:b1": "76818d5e3b99445e78351e3f9441ae0faeb037ab37674688efa91b664a7cef30"
+      },
+      "doc_id": "p.marm;;r",
+      "license_urls": [
+        "http://creativecommons.org/licenses/by/3.0/"
+      ],
+      "source_url": "https://papyri.info/ddbdp/p.marm;;r",
+      "xml_logical_path": "p.marm/p.marm.r.xml",
+      "xml_sha256": "b02a3fedc50cdc0883f1ba5f401eda0eca3e0c547ddda94271a16a67e217b22d"
+    },
+    {
+      "attribution": "Duke Databank of Documentary Papyri / DC3",
+      "blocks": {
+        "e0:b0": "f8bbd6a21da21001cec92efb24c4d4cc937c6a1b3fb43291ee7e668f134ea80c"
+      },
+      "doc_id": "p.mich;11;614",
+      "license_urls": [
+        "http://creativecommons.org/licenses/by/3.0/"
+      ],
+      "source_url": "https://papyri.info/ddbdp/p.mich;11;614",
+      "xml_logical_path": "p.mich/p.mich.11/p.mich.11.614.xml",
+      "xml_sha256": "2234582c83c7db38d3596c745b8116cbb13f2d2d8d0e50fe0dd48db0eb5f7b90"
+    },
+    {
+      "attribution": "Duke Databank of Documentary Papyri / DC3",
+      "blocks": {
+        "e0:b2": "0b6c8973600e81641768cd8da8ae802eeb4cf589ae18b2cbd83ea2ac2880c1a5"
+      },
+      "doc_id": "p.mich;12;644",
+      "license_urls": [
+        "http://creativecommons.org/licenses/by/3.0/"
+      ],
+      "source_url": "https://papyri.info/ddbdp/p.mich;12;644",
+      "xml_logical_path": "p.mich/p.mich.12/p.mich.12.644.xml",
+      "xml_sha256": "ab08d3c476e1e1346d53b5e8968b4a5c65023714b310047177c3574e34badd11"
+    },
+    {
+      "attribution": "Duke Databank of Documentary Papyri / DC3",
+      "blocks": {
+        "e0:b1": "6b406a248aef1996e2d7c9bbfd2bb8314934eb1146f07a0f96fce05834b38ce6"
+      },
+      "doc_id": "p.mich;1;31",
+      "license_urls": [
+        "http://creativecommons.org/licenses/by/3.0/"
+      ],
+      "source_url": "https://papyri.info/ddbdp/p.mich;1;31",
+      "xml_logical_path": "p.mich/p.mich.1/p.mich.1.31.xml",
+      "xml_sha256": "5ac5c5ebee61c7fb2194f0eabc5fbefbdf0991fe9f42c501763f56599efa71c2"
+    },
+    {
+      "attribution": "Duke Databank of Documentary Papyri / DC3",
+      "blocks": {
+        "e0:b6": "136b7ac6db1c1edd5fb09e9c38af5d3783c58180154d75ab18c695384c6c1aa1",
+        "e0:b7": "1565eaa56db660f819ea57de23086b3f6b6cc2f6487bab41574b0801bacc1965"
+      },
+      "doc_id": "p.mich;2;123",
+      "license_urls": [
+        "http://creativecommons.org/licenses/by/3.0/"
+      ],
+      "source_url": "https://papyri.info/ddbdp/p.mich;2;123",
+      "xml_logical_path": "p.mich/p.mich.2/p.mich.2.123.xml",
+      "xml_sha256": "1f72ae653b1869aac033d979a86453134b710aeb230a9f7cfd5472bd3a094a2a"
+    },
+    {
+      "attribution": "Duke Databank of Documentary Papyri / DC3",
+      "blocks": {
+        "e0:b5": "f31c6fa4eb208630f522d3d3e2c67c7e60fae0f7c22811fe2aeee96efbce3a17"
+      },
+      "doc_id": "p.mich;2;124",
+      "license_urls": [
+        "http://creativecommons.org/licenses/by/3.0/"
+      ],
+      "source_url": "https://papyri.info/ddbdp/p.mich;2;124",
+      "xml_logical_path": "p.mich/p.mich.2/p.mich.2.124.xml",
+      "xml_sha256": "9dea91f7967250992fda910d4d71470d2c2f39f5fe547ccc5369d782a7057176"
+    },
+    {
+      "attribution": "Duke Databank of Documentary Papyri / DC3",
+      "blocks": {
+        "e0:b0": "df6c2bb10c458a9e1b367f73cebb64d536b649f953aa585abf9eb8954d275804"
+      },
+      "doc_id": "p.mich;2;127",
+      "license_urls": [
+        "http://creativecommons.org/licenses/by/3.0/"
+      ],
+      "source_url": "https://papyri.info/ddbdp/p.mich;2;127",
+      "xml_logical_path": "p.mich/p.mich.2/p.mich.2.127.xml",
+      "xml_sha256": "1b569bece956fc67856e482b29e9591d6315dcd5ba0f63a27c6bdaec58700b10"
+    },
+    {
+      "attribution": "Duke Databank of Documentary Papyri / DC3",
+      "blocks": {
+        "e0:b61": "1f048e9bba135fbb6431af3c8d83a54c5aaeeae3f1335d141f2e02e91fbc35de"
+      },
+      "doc_id": "p.mich;4.1;225",
+      "license_urls": [
+        "http://creativecommons.org/licenses/by/3.0/"
+      ],
+      "source_url": "https://papyri.info/ddbdp/p.mich;4.1;225",
+      "xml_logical_path": "p.mich/p.mich.4.1/p.mich.4.1.225.xml",
+      "xml_sha256": "9065d349641a7dfff20ef52e12dc2a99e8f88b2f116fe6e9e3567bbbd3f181a1"
+    },
+    {
+      "attribution": "Duke Databank of Documentary Papyri / DC3",
+      "blocks": {
+        "e0:b13": "cf4a413198f9a83c685567f82c9ea9e4b822e5d90af49379b47ff7e84895b9b2"
+      },
+      "doc_id": "p.mich;4.2;358B",
+      "license_urls": [
+        "http://creativecommons.org/licenses/by/3.0/"
+      ],
+      "source_url": "https://papyri.info/ddbdp/p.mich;4.2;358B",
+      "xml_logical_path": "p.mich/p.mich.4.2/p.mich.4.2.358B.xml",
+      "xml_sha256": "ee0561abd10a06cef5c47e04a66cfbc75f55b66d50273b113978f1e90093956c"
+    },
+    {
+      "attribution": "Duke Databank of Documentary Papyri / DC3",
+      "blocks": {
+        "e0:b1": "e3928e0ca804a2c60b87b2a6e2e8644c3d77030c155f0a01db9617a37b2a0b03"
+      },
+      "doc_id": "p.mich;5;238r",
+      "license_urls": [
+        "http://creativecommons.org/licenses/by/3.0/"
+      ],
+      "source_url": "https://papyri.info/ddbdp/p.mich;5;238r",
+      "xml_logical_path": "p.mich/p.mich.5/p.mich.5.238r.xml",
+      "xml_sha256": "2736c8daadbe2a576228668e4329514894820368bda48029c6aaf340def764bf"
+    },
+    {
+      "attribution": "Duke Databank of Documentary Papyri / DC3",
+      "blocks": {
+        "e0:b0": "4cb460f382abc0c2760b4f64d8ed4774cf3a2d976309b34eeb51b9b7dd44b10f"
+      },
+      "doc_id": "p.mil.vogl;3;134",
+      "license_urls": [
+        "http://creativecommons.org/licenses/by/3.0/"
+      ],
+      "source_url": "https://papyri.info/ddbdp/p.mil.vogl;3;134",
+      "xml_logical_path": "p.mil.vogl/p.mil.vogl.3/p.mil.vogl.3.134.xml",
+      "xml_sha256": "052900fabde41594a500cb9ea8c193506e0c6fed4de3b6797277f694912a898c"
+    },
+    {
+      "attribution": "Duke Databank of Documentary Papyri / DC3",
+      "blocks": {
+        "e0:b0": "7315516101d6857bc255d2e06dfccfb538e7dee0d6dd3ececf8be15f4214e096"
+      },
+      "doc_id": "p.mil.vogl;3;137",
+      "license_urls": [
+        "http://creativecommons.org/licenses/by/3.0/"
+      ],
+      "source_url": "https://papyri.info/ddbdp/p.mil.vogl;3;137",
+      "xml_logical_path": "p.mil.vogl/p.mil.vogl.3/p.mil.vogl.3.137.xml",
+      "xml_sha256": "3b9c7423d03aac788e7506bb7ae47c62f17107f31fb17cbd16387148f006cfa5"
+    },
+    {
+      "attribution": "Duke Databank of Documentary Papyri / DC3",
+      "blocks": {
+        "e0:b0": "607bcb6d22b6b136e01f5cc4a410341d9a2f86203fd950f58c038a4c277550ce"
+      },
+      "doc_id": "p.mil.vogl;3;144",
+      "license_urls": [
+        "http://creativecommons.org/licenses/by/3.0/"
+      ],
+      "source_url": "https://papyri.info/ddbdp/p.mil.vogl;3;144",
+      "xml_logical_path": "p.mil.vogl/p.mil.vogl.3/p.mil.vogl.3.144.xml",
+      "xml_sha256": "4d41466b7da197d54e787cc22ee56f98ec5009bd91e0539870ed5ed5b7fc954b"
+    },
+    {
+      "attribution": "Duke Databank of Documentary Papyri / DC3",
+      "blocks": {
+        "e0:b0": "a6737b492868e88f785983f7e176a9c34d961ddb632764976a6f9fac23f72090"
+      },
+      "doc_id": "p.mil.vogl;6;292",
+      "license_urls": [
+        "http://creativecommons.org/licenses/by/3.0/"
+      ],
+      "source_url": "https://papyri.info/ddbdp/p.mil.vogl;6;292",
+      "xml_logical_path": "p.mil.vogl/p.mil.vogl.6/p.mil.vogl.6.292.xml",
+      "xml_sha256": "6a29599b113f7269cc096e7d0fcd5f2b1fe1a5ca70007376dafbc7f6f8f796b7"
+    },
+    {
+      "attribution": "Duke Databank of Documentary Papyri / DC3",
+      "blocks": {
+        "e0:b1": "2afc0e8cb53c259dccc15a386117a3ab876dd2dbda6a8d058514158a21355b49"
+      },
+      "doc_id": "p.monts.roca;4;77",
+      "license_urls": [
+        "http://creativecommons.org/licenses/by/3.0/"
+      ],
+      "source_url": "https://papyri.info/ddbdp/p.monts.roca;4;77",
+      "xml_logical_path": "p.monts.roca/p.monts.roca.4/p.monts.roca.4.77.xml",
+      "xml_sha256": "64376c633770da80d9a377c38fd9c0279ed50d1096a4678f54f7dd2664c79926"
+    },
+    {
+      "attribution": "Duke Databank of Documentary Papyri / DC3",
+      "blocks": {
+        "e0:b0": "60396a10486a4e25b4ad69cddd30341fee713d346ed2def539fce07265eb5ec5"
+      },
+      "doc_id": "p.nekr;;18",
+      "license_urls": [
+        "http://creativecommons.org/licenses/by/3.0/"
+      ],
+      "source_url": "https://papyri.info/ddbdp/p.nekr;;18",
+      "xml_logical_path": "p.nekr/p.nekr.18.xml",
+      "xml_sha256": "0d64d48bd669615761292638799e082b1c68d4a48830af861a3d0990bbb9d741"
+    },
+    {
+      "attribution": "Duke Databank of Documentary Papyri / DC3",
+      "blocks": {
+        "e0:b1": "c51c67eb10b4a2bed20f874752010e0baf35943034f6b502a8d273d442bf5a7a"
+      },
+      "doc_id": "p.oslo;3;194",
+      "license_urls": [
+        "http://creativecommons.org/licenses/by/3.0/"
+      ],
+      "source_url": "https://papyri.info/ddbdp/p.oslo;3;194",
+      "xml_logical_path": "p.oslo/p.oslo.3/p.oslo.3.194.xml",
+      "xml_sha256": "6599d4fe11d6298dfc8d570affb32177b30ed05fd68fa425538bbfcc2164b657"
+    },
+    {
+      "attribution": "Duke Databank of Documentary Papyri / DC3",
+      "blocks": {
+        "e0:b1": "1a794e210f1f771bd629d397ac27e452fdc39281749cea6b41201b7cead16460"
+      },
+      "doc_id": "p.oxy.hels;;9",
+      "license_urls": [
+        "http://creativecommons.org/licenses/by/3.0/"
+      ],
+      "source_url": "https://papyri.info/ddbdp/p.oxy.hels;;9",
+      "xml_logical_path": "p.oxy.hels/p.oxy.hels.9.xml",
+      "xml_sha256": "b0ee3b191536993e36fc67644e6399ce407f7918f2efc76dab62c3ad85a11622"
+    },
+    {
+      "attribution": "Duke Databank of Documentary Papyri / DC3",
+      "blocks": {
+        "e0:b1": "7ee3124027c5d7ede35146789ba17c2368f098d7497e33539a95267340b42779"
+      },
+      "doc_id": "p.oxy;14;1652B",
+      "license_urls": [
+        "http://creativecommons.org/licenses/by/3.0/"
+      ],
+      "source_url": "https://papyri.info/ddbdp/p.oxy;14;1652B",
+      "xml_logical_path": "p.oxy/p.oxy.14/p.oxy.14.1652B.xml",
+      "xml_sha256": "3f5afba86c73ed0ac94028a5097b7ca220b0679068bd35804ab4ee47a6c30589"
+    },
+    {
+      "attribution": "Duke Databank of Documentary Papyri / DC3",
+      "blocks": {
+        "e0:b8": "ae2a763fbe3ec113fc1e65dd7da6a35915ac17304f14a9733aa3859bbfd98626"
+      },
+      "doc_id": "p.oxy;16;1911",
+      "license_urls": [
+        "http://creativecommons.org/licenses/by/3.0/"
+      ],
+      "source_url": "https://papyri.info/ddbdp/p.oxy;16;1911",
+      "xml_logical_path": "p.oxy/p.oxy.16/p.oxy.16.1911.xml",
+      "xml_sha256": "4305961bb15bcd0d8f799bfba8de715b8621ec6e06561b49412a056ef71e2a51"
+    },
+    {
+      "attribution": "Duke Databank of Documentary Papyri / DC3",
+      "blocks": {
+        "e0:b2": "5787d7ff8d27ac4cf33908091c65ff84002eada1583644ee0cfa9177781644ad",
+        "e0:b7": "42a458b4db46949c621637886f94e7970ed7cc80f6ca53ec38568cfabdde5497"
+      },
+      "doc_id": "p.oxy;16;1912",
+      "license_urls": [
+        "http://creativecommons.org/licenses/by/3.0/"
+      ],
+      "source_url": "https://papyri.info/ddbdp/p.oxy;16;1912",
+      "xml_logical_path": "p.oxy/p.oxy.16/p.oxy.16.1912.xml",
+      "xml_sha256": "ad11196672eb419fe5a8357a4d2dfd017f83e18b27337bd4a88c3ea3c160b240"
+    },
+    {
+      "attribution": "Duke Databank of Documentary Papyri / DC3",
+      "blocks": {
+        "e0:b1": "b73e3e2398ab5c77fd3582f49d45467b1fee568d39c177c2633eecc9f00269cd"
+      },
+      "doc_id": "p.oxy;16;1913",
+      "license_urls": [
+        "http://creativecommons.org/licenses/by/3.0/"
+      ],
+      "source_url": "https://papyri.info/ddbdp/p.oxy;16;1913",
+      "xml_logical_path": "p.oxy/p.oxy.16/p.oxy.16.1913.xml",
+      "xml_sha256": "08100d6425eb07d40a4409e52a8dbebbd24d271d4b3403fc7eb57d3773300299"
+    },
+    {
+      "attribution": "Duke Databank of Documentary Papyri / DC3",
+      "blocks": {
+        "e0:b0": "9311c7a88fe0291960559c366e572eb36e8770e60f9e45ec5697abbb97b4fdef"
+      },
+      "doc_id": "p.oxy;16;2024",
+      "license_urls": [
+        "http://creativecommons.org/licenses/by/3.0/"
+      ],
+      "source_url": "https://papyri.info/ddbdp/p.oxy;16;2024",
+      "xml_logical_path": "p.oxy/p.oxy.16/p.oxy.16.2024.xml",
+      "xml_sha256": "e1a38f8daff864ac97bdcf7df04472b14baebae917535822b52d815522940d15"
+    },
+    {
+      "attribution": "Duke Databank of Documentary Papyri / DC3",
+      "blocks": {
+        "e0:b3": "12de02d5218dd9a150906a563c5f0094725a5482952443784449c41b0e29e995"
+      },
+      "doc_id": "p.oxy;19;2240",
+      "license_urls": [
+        "http://creativecommons.org/licenses/by/3.0/"
+      ],
+      "source_url": "https://papyri.info/ddbdp/p.oxy;19;2240",
+      "xml_logical_path": "p.oxy/p.oxy.19/p.oxy.19.2240.xml",
+      "xml_sha256": "87182aa1b546a1f30a7ecf130cbf4066c3fd25ee9500ad03d176bb35b5500749"
+    },
+    {
+      "attribution": "Duke Databank of Documentary Papyri / DC3",
+      "blocks": {
+        "e0:b1": "d8965024d19ece6a2ab854633efff55571ec87413675404eb6d9a988ea01ec94"
+      },
+      "doc_id": "p.oxy;24;2421",
+      "license_urls": [
+        "http://creativecommons.org/licenses/by/3.0/"
+      ],
+      "source_url": "https://papyri.info/ddbdp/p.oxy;24;2421",
+      "xml_logical_path": "p.oxy/p.oxy.24/p.oxy.24.2421.xml",
+      "xml_sha256": "b8a2381d2befac5ae9875e35850909126200a9fab971a8d7cc9e630cb40484b5"
+    },
+    {
+      "attribution": "Duke Databank of Documentary Papyri / DC3",
+      "blocks": {
+        "e0:b0": "a300effb90a3f5bb5bfd1d315367fc009031c32d9d3fd37b14b821df82e7eefd"
+      },
+      "doc_id": "p.oxy;36;2778",
+      "license_urls": [
+        "http://creativecommons.org/licenses/by/3.0/"
+      ],
+      "source_url": "https://papyri.info/ddbdp/p.oxy;36;2778",
+      "xml_logical_path": "p.oxy/p.oxy.36/p.oxy.36.2778.xml",
+      "xml_sha256": "0d5dda2b956e33545a56205c5d06b6a86f1b99846be100c1a4062220c93ad3fe"
+    },
+    {
+      "attribution": "Duke Databank of Documentary Papyri / DC3",
+      "blocks": {
+        "e0:b0": "902c3efc0bd42ee7b24881a73d03d177b25314fdf4c5e7b33fb294d6772293c2"
+      },
+      "doc_id": "p.oxy;49;3473",
+      "license_urls": [
+        "http://creativecommons.org/licenses/by/3.0/"
+      ],
+      "source_url": "https://papyri.info/ddbdp/p.oxy;49;3473",
+      "xml_logical_path": "p.oxy/p.oxy.49/p.oxy.49.3473.xml",
+      "xml_sha256": "b0bdbd3f18d22e22372875531803b2646f438bd5f08741c5572c97911586e408"
+    },
+    {
+      "attribution": "Duke Databank of Documentary Papyri / DC3",
+      "blocks": {
+        "e0:b1": "8665eb024f236f07bf693cad878a9fffc7b9cac2ae8c1f9b67d07005e160136d"
+      },
+      "doc_id": "p.oxy;54;3773r",
+      "license_urls": [
+        "http://creativecommons.org/licenses/by/3.0/"
+      ],
+      "source_url": "https://papyri.info/ddbdp/p.oxy;54;3773r",
+      "xml_logical_path": "p.oxy/p.oxy.54/p.oxy.54.3773r.xml",
+      "xml_sha256": "8f4b74faba677d591fd34a141a66cf697380336f94d290471a4f9535642d4c3b"
+    },
+    {
+      "attribution": "Duke Databank of Documentary Papyri / DC3",
+      "blocks": {
+        "e0:b3": "496743ff68e46f59c122edc78b1ce4c6433ca6a4f95be8e2beaf8a3020c32c88",
+        "e0:b8": "2e4b96b794d064774aa21f435dfb926bf3a13c81e1284cfeca099bf2793f6589"
+      },
+      "doc_id": "p.oxy;55;3804",
+      "license_urls": [
+        "http://creativecommons.org/licenses/by/3.0/"
+      ],
+      "source_url": "https://papyri.info/ddbdp/p.oxy;55;3804",
+      "xml_logical_path": "p.oxy/p.oxy.55/p.oxy.55.3804.xml",
+      "xml_sha256": "7aa134ddf72f9811959615e8197c5836002f33467feabdede64968fd9b953744"
+    },
+    {
+      "attribution": "Duke Databank of Documentary Papyri / DC3",
+      "blocks": {
+        "e0:b0": "b2f829850f47b7b61d07372db97884962f1740d4bcc5c2f19541254c4b296254"
+      },
+      "doc_id": "p.oxy;63;4372",
+      "license_urls": [
+        "http://creativecommons.org/licenses/by/3.0/"
+      ],
+      "source_url": "https://papyri.info/ddbdp/p.oxy;63;4372",
+      "xml_logical_path": "p.oxy/p.oxy.63/p.oxy.63.4372.xml",
+      "xml_sha256": "c7d0af34a1add86338b9abaea500b9430ed4b688b5aad9cc8b7314a5ff2aee8f"
+    },
+    {
+      "attribution": "Duke Databank of Documentary Papyri / DC3",
+      "blocks": {
+        "e0:b1": "5c1181ba88e4fa4dbf08d33d883d798e489dcb2574ce2e4eef2955d015411057"
+      },
+      "doc_id": "p.oxy;84;5470",
+      "license_urls": [
+        "http://creativecommons.org/licenses/by/3.0/"
+      ],
+      "source_url": "https://papyri.info/ddbdp/p.oxy;84;5470",
+      "xml_logical_path": "p.oxy/p.oxy.84/p.oxy.84.5470.xml",
+      "xml_sha256": "b7e5f1d4ca571b717a7667662656367bf647e681e488c76cf57dae6fa5ebf084"
+    },
+    {
+      "attribution": "Duke Databank of Documentary Papyri / DC3",
+      "blocks": {
+        "e0:b4": "00b9587edc7d05643b2926779ffbc9120d4e1a70929ff8310e2c2805cc046f93"
+      },
+      "doc_id": "p.petr;3;109",
+      "license_urls": [
+        "http://creativecommons.org/licenses/by/3.0/"
+      ],
+      "source_url": "https://papyri.info/ddbdp/p.petr;3;109",
+      "xml_logical_path": "p.petr/p.petr.3/p.petr.3.109.xml",
+      "xml_sha256": "5555855e99b9f2d1c150282dea0375a2fe153ddf6402f1f5f75540586edcc54c"
+    },
+    {
+      "attribution": "Duke Databank of Documentary Papyri / DC3",
+      "blocks": {
+        "e0:b0": "7cfd75ea165254a23a162ba461186e16cef8e36ad50cd457145d2f5ec07c9ed3"
+      },
+      "doc_id": "p.petr;3;114",
+      "license_urls": [
+        "http://creativecommons.org/licenses/by/3.0/"
+      ],
+      "source_url": "https://papyri.info/ddbdp/p.petr;3;114",
+      "xml_logical_path": "p.petr/p.petr.3/p.petr.3.114.xml",
+      "xml_sha256": "4dd69182fa978436006c14cbb56a7f7379c236d5f9a1cef7aeb69fd01b50242e"
+    },
+    {
+      "attribution": "Duke Databank of Documentary Papyri / DC3",
+      "blocks": {
+        "e0:b0": "d86aba7d974314f585f26fa4c0543beb4a355c9d9453bf8f1a8a85d1363eccda"
+      },
+      "doc_id": "p.petr;3;26",
+      "license_urls": [
+        "http://creativecommons.org/licenses/by/3.0/"
+      ],
+      "source_url": "https://papyri.info/ddbdp/p.petr;3;26",
+      "xml_logical_path": "p.petr/p.petr.3/p.petr.3.26.xml",
+      "xml_sha256": "c28c01b8ff29f0dec6b690c74b8fee1296dd22a3bbabcccf6eef2ce6c8880351"
+    },
+    {
+      "attribution": "Duke Databank of Documentary Papyri / DC3",
+      "blocks": {
+        "e0:b1": "b9e9b29c2f536b634105e9d610cb4a0cfba6f533f89d60439565fd09321b9827"
+      },
+      "doc_id": "p.petr;3;80",
+      "license_urls": [
+        "http://creativecommons.org/licenses/by/3.0/"
+      ],
+      "source_url": "https://papyri.info/ddbdp/p.petr;3;80",
+      "xml_logical_path": "p.petr/p.petr.3/p.petr.3.80.xml",
+      "xml_sha256": "243cacfd70ba56075f5ce11802ec64611ee8d4365a87160035216022ecefab22"
+    },
+    {
+      "attribution": "Duke Databank of Documentary Papyri / DC3",
+      "blocks": {
+        "e0:b0": "ad122ce64df179fe13e02f7d7531c4366c5ad06345432ee503f1c5d151b91956"
+      },
+      "doc_id": "p.prag;2;139r",
+      "license_urls": [
+        "http://creativecommons.org/licenses/by/3.0/"
+      ],
+      "source_url": "https://papyri.info/ddbdp/p.prag;2;139r",
+      "xml_logical_path": "p.prag/p.prag.2/p.prag.2.139r.xml",
+      "xml_sha256": "d71706c2a3bd6167d06a5800b5384b4898568088d6c717aa32816db90d091053"
+    },
+    {
+      "attribution": "Duke Databank of Documentary Papyri / DC3",
+      "blocks": {
+        "e0:b1": "5ea7a59cb0d1554e62b5eb7b9bfca80ad5bf241ea4c3a5d6d0a153753f081b0a"
+      },
+      "doc_id": "p.princ;2;54",
+      "license_urls": [
+        "http://creativecommons.org/licenses/by/3.0/"
+      ],
+      "source_url": "https://papyri.info/ddbdp/p.princ;2;54",
+      "xml_logical_path": "p.princ/p.princ.2/p.princ.2.54.xml",
+      "xml_sha256": "33e8309814059250a1626625337aa900110c109af54a3f994a43c316a8961f0f"
+    },
+    {
+      "attribution": "Duke Databank of Documentary Papyri / DC3",
+      "blocks": {
+        "e0:b0": "fead7512800946a81870a7b0b2aef22b0b3bd7f5df448931e0b314f0e05ee85e"
+      },
+      "doc_id": "p.princ;3;156",
+      "license_urls": [
+        "http://creativecommons.org/licenses/by/3.0/"
+      ],
+      "source_url": "https://papyri.info/ddbdp/p.princ;3;156",
+      "xml_logical_path": "p.princ/p.princ.3/p.princ.3.156.xml",
+      "xml_sha256": "2a6ca63b87b6cbbcf0c6f7575d44ae741c7a6518fb18e856d2b7dc92cb657914"
+    },
+    {
+      "attribution": "Duke Databank of Documentary Papyri / DC3",
+      "blocks": {
+        "e0:b0": "606cc2906a3952cce5c64daa273073611aa8b5bbcda7cacf2c946dfc6c8b2ab5"
+      },
+      "doc_id": "p.ryl;2;186",
+      "license_urls": [
+        "http://creativecommons.org/licenses/by/3.0/"
+      ],
+      "source_url": "https://papyri.info/ddbdp/p.ryl;2;186",
+      "xml_logical_path": "p.ryl/p.ryl.2/p.ryl.2.186.xml",
+      "xml_sha256": "ab3b1638b6eb6383c8f3111dee521bc59caf8a1fbf4fc22e13fbc2e6f6b4725e"
+    },
+    {
+      "attribution": "Duke Databank of Documentary Papyri / DC3",
+      "blocks": {
+        "e0:b1": "0cd1f8fdb134621415247ac74e2eb826f2f1499664c77cd8689a3149087a1edf"
+      },
+      "doc_id": "p.ryl;4;594",
+      "license_urls": [
+        "http://creativecommons.org/licenses/by/3.0/"
+      ],
+      "source_url": "https://papyri.info/ddbdp/p.ryl;4;594",
+      "xml_logical_path": "p.ryl/p.ryl.4/p.ryl.4.594.xml",
+      "xml_sha256": "f2d992bba307d0de516a535fb3ccc20f1f98706b938763196759ec2f49e55f9e"
+    },
+    {
+      "attribution": "Duke Databank of Documentary Papyri / DC3",
+      "blocks": {
+        "e0:b0": "90f08bdb38122c21b24e047021a45e11d7bc83318cfbbf98f3955fa21f83faa3"
+      },
+      "doc_id": "p.sarap;;51",
+      "license_urls": [
+        "http://creativecommons.org/licenses/by/3.0/"
+      ],
+      "source_url": "https://papyri.info/ddbdp/p.sarap;;51",
+      "xml_logical_path": "p.sarap/p.sarap.51.xml",
+      "xml_sha256": "e7fbc1f859b3f86c09c44f370bc7eeab407a5580de6fb652da5b842f602b877b"
+    },
+    {
+      "attribution": "Duke Databank of Documentary Papyri / DC3",
+      "blocks": {
+        "e0:b1": "5ff23a2959bfd3b6b76ef672d9564321a5e3435196a780422da9e0531f403214"
+      },
+      "doc_id": "p.sorb;1;17dupl",
+      "license_urls": [
+        "http://creativecommons.org/licenses/by/3.0/"
+      ],
+      "source_url": "https://papyri.info/ddbdp/p.sorb;1;17dupl",
+      "xml_logical_path": "p.sorb/p.sorb.1/p.sorb.1.17dupl.xml",
+      "xml_sha256": "2595590a4e9cb73e5b9b3da34e8f8bd264280bfe229afd79e793e0824eba3ed5"
+    },
+    {
+      "attribution": "Duke Databank of Documentary Papyri / DC3",
+      "blocks": {
+        "e0:b0": "42053a98bac92b21675c6ac4d8057a5117cc3b35c91ccb229afced0834af27ca"
+      },
+      "doc_id": "p.stras;1;73",
+      "license_urls": [
+        "http://creativecommons.org/licenses/by/3.0/"
+      ],
+      "source_url": "https://papyri.info/ddbdp/p.stras;1;73",
+      "xml_logical_path": "p.stras/p.stras.1/p.stras.1.73.xml",
+      "xml_sha256": "f9cad6c8d877470922b97dd5adf5dd34a6368d63b05acaf55ff73a6385ed2fa1"
+    },
+    {
+      "attribution": "Duke Databank of Documentary Papyri / DC3",
+      "blocks": {
+        "e0:b0": "fdfb9e0386fc5fe0db8ed4c45eaa5f0e31a470fb9d8f0e366cac9df353bb986d"
+      },
+      "doc_id": "p.stras;5;325colii",
+      "license_urls": [
+        "http://creativecommons.org/licenses/by/3.0/"
+      ],
+      "source_url": "https://papyri.info/ddbdp/p.stras;5;325colii",
+      "xml_logical_path": "p.stras/p.stras.5/p.stras.5.325colii.xml",
+      "xml_sha256": "44994d4f09496cf960ec172604cef809ae99fedc9b961dd53d6ea2f2a9ea7925"
+    },
+    {
+      "attribution": "Duke Databank of Documentary Papyri / DC3",
+      "blocks": {
+        "e0:b5": "e9fcea325b546b2c07c009c1128b2706c67ad2bc59be944d433657f131d4fb87"
+      },
+      "doc_id": "p.tebt;1;120",
+      "license_urls": [
+        "http://creativecommons.org/licenses/by/3.0/"
+      ],
+      "source_url": "https://papyri.info/ddbdp/p.tebt;1;120",
+      "xml_logical_path": "p.tebt/p.tebt.1/p.tebt.1.120.xml",
+      "xml_sha256": "858a0b4cb66cdb0c4bf903530ae6be2e42b9c94c6b8cc617ee007e227b669ba4"
+    },
+    {
+      "attribution": "Duke Databank of Documentary Papyri / DC3",
+      "blocks": {
+        "e0:b4": "1228412afe620f3f331a228d52979f532fb15faf139d53f231d553574db797ec"
+      },
+      "doc_id": "p.tebt;1;61b",
+      "license_urls": [
+        "http://creativecommons.org/licenses/by/3.0/"
+      ],
+      "source_url": "https://papyri.info/ddbdp/p.tebt;1;61b",
+      "xml_logical_path": "p.tebt/p.tebt.1/p.tebt.1.61b.xml",
+      "xml_sha256": "2a013f4339b93eda71132bf6348c01c0703eb93c10047f8dfc7fbd0ca808c0b1"
+    },
+    {
+      "attribution": "Duke Databank of Documentary Papyri / DC3",
+      "blocks": {
+        "e0:b0": "f1f2717fb75aa859e2b26768f2ec617234876b38242e5690871acf5b8b5f3b2b",
+        "e0:b2": "9f4ece086f33fa5978999963addf9f3b6bc3511d6cc9ddef26655bcc657b7165"
+      },
+      "doc_id": "p.tebt;1;68",
+      "license_urls": [
+        "http://creativecommons.org/licenses/by/3.0/"
+      ],
+      "source_url": "https://papyri.info/ddbdp/p.tebt;1;68",
+      "xml_logical_path": "p.tebt/p.tebt.1/p.tebt.1.68.xml",
+      "xml_sha256": "b2eb19e223aad949041a1c6e35e5a44503c574f7ab85e718badcc5f97c39b6fd"
+    },
+    {
+      "attribution": "Duke Databank of Documentary Papyri / DC3",
+      "blocks": {
+        "e0:b1": "c4d802c26554b23d05f5b538bc2a44fc219e5fecb8764ac2c0167bc18e956e4c"
+      },
+      "doc_id": "p.tebt;1;70",
+      "license_urls": [
+        "http://creativecommons.org/licenses/by/3.0/"
+      ],
+      "source_url": "https://papyri.info/ddbdp/p.tebt;1;70",
+      "xml_logical_path": "p.tebt/p.tebt.1/p.tebt.1.70.xml",
+      "xml_sha256": "e34f9295ce709a8b2b1610687e8ef125baeadeec91167ec775e6638c9832e45e"
+    },
+    {
+      "attribution": "Duke Databank of Documentary Papyri / DC3",
+      "blocks": {
+        "e0:b0": "ef78ee77277ce7c5b7b95ad8d717232599da0a2f618d9dc53075942af92638ca"
+      },
+      "doc_id": "p.tebt;1;80",
+      "license_urls": [
+        "http://creativecommons.org/licenses/by/3.0/"
+      ],
+      "source_url": "https://papyri.info/ddbdp/p.tebt;1;80",
+      "xml_logical_path": "p.tebt/p.tebt.1/p.tebt.1.80.xml",
+      "xml_sha256": "a72905cd3d55be57f2a622d55db9c5db45f82d8ed17ef388e261e86f31013525"
+    },
+    {
+      "attribution": "Duke Databank of Documentary Papyri / DC3",
+      "blocks": {
+        "e0:b5": "f5cc2aada905e17b14d36ec31724678150c5dcf8e6498203f5ad7f633efe580d"
+      },
+      "doc_id": "p.tebt;1;99",
+      "license_urls": [
+        "http://creativecommons.org/licenses/by/3.0/"
+      ],
+      "source_url": "https://papyri.info/ddbdp/p.tebt;1;99",
+      "xml_logical_path": "p.tebt/p.tebt.1/p.tebt.1.99.xml",
+      "xml_sha256": "0a22a3bbaca7332554801d35dec80f32178e14b1ef2dce786df3b86903fe15d8"
+    },
+    {
+      "attribution": "Duke Databank of Documentary Papyri / DC3",
+      "blocks": {
+        "e0:b0": "e21233f54f855489ccd5b024024d7561b356091345a1890df06c08cbfe5d98a2"
+      },
+      "doc_id": "p.tebt;2;368",
+      "license_urls": [
+        "http://creativecommons.org/licenses/by/3.0/"
+      ],
+      "source_url": "https://papyri.info/ddbdp/p.tebt;2;368",
+      "xml_logical_path": "p.tebt/p.tebt.2/p.tebt.2.368.xml",
+      "xml_sha256": "5ecd1bed7e895ee2f6a79f1003c0d11049b2ef9b92a41340ef8df16fcc9618b4"
+    },
+    {
+      "attribution": "Duke Databank of Documentary Papyri / DC3",
+      "blocks": {
+        "e0:b0": "284918ccd8d1f7d39b3e191145dc690ab56b64ea5ccaf6f2ad4e0ff7dd082fd6"
+      },
+      "doc_id": "p.tebt;3.2;1009",
+      "license_urls": [
+        "http://creativecommons.org/licenses/by/3.0/"
+      ],
+      "source_url": "https://papyri.info/ddbdp/p.tebt;3.2;1009",
+      "xml_logical_path": "p.tebt/p.tebt.3.2/p.tebt.3.2.1009.xml",
+      "xml_sha256": "0005a5ca4d46b4fb86fc9525a0b4df1bd0e1f4de99d7693d5a6ee6f54cb4a517"
+    },
+    {
+      "attribution": "Duke Databank of Documentary Papyri / DC3",
+      "blocks": {
+        "e0:b0": "5e69d50192e82b7aae5043d8a3183d79146948183a082e351e98482749f423ba"
+      },
+      "doc_id": "p.tebt;3.2;1012",
+      "license_urls": [
+        "http://creativecommons.org/licenses/by/3.0/"
+      ],
+      "source_url": "https://papyri.info/ddbdp/p.tebt;3.2;1012",
+      "xml_logical_path": "p.tebt/p.tebt.3.2/p.tebt.3.2.1012.xml",
+      "xml_sha256": "280795ec1f329e5dbe20139dace4d38a695e91e9a655d53a91a2b410b9bf0044"
+    },
+    {
+      "attribution": "Duke Databank of Documentary Papyri / DC3",
+      "blocks": {
+        "e0:b0": "021ad522a23f86bba236cd28c1a68f306b6e6093579534d1f4b99c33f20cf49e"
+      },
+      "doc_id": "p.tebt;3.2;832",
+      "license_urls": [
+        "http://creativecommons.org/licenses/by/3.0/"
+      ],
+      "source_url": "https://papyri.info/ddbdp/p.tebt;3.2;832",
+      "xml_logical_path": "p.tebt/p.tebt.3.2/p.tebt.3.2.832.xml",
+      "xml_sha256": "6845f74e9245e3adbae951a5bd3d822229661fbd05820781ace4f033b3720b63"
+    },
+    {
+      "attribution": "Duke Databank of Documentary Papyri / DC3",
+      "blocks": {
+        "e0:b1": "3b66fdae2f89c44dc19e6bde9b9d8a062e57a89bc05ceedae4d7a4160d101574"
+      },
+      "doc_id": "p.tebt;3.2;847",
+      "license_urls": [
+        "http://creativecommons.org/licenses/by/3.0/"
+      ],
+      "source_url": "https://papyri.info/ddbdp/p.tebt;3.2;847",
+      "xml_logical_path": "p.tebt/p.tebt.3.2/p.tebt.3.2.847.xml",
+      "xml_sha256": "ed802d8b5e82135f46182ff39dcdcc7364bfe1e4b2f4f6c8e799f2e4bfbb0b66"
+    },
+    {
+      "attribution": "Duke Databank of Documentary Papyri / DC3",
+      "blocks": {
+        "e0:b0": "fb8801e5043463c41aa61d60f764dda1493fb051fb1806aaac15b908fcfddacd"
+      },
+      "doc_id": "p.tebt;4;1104",
+      "license_urls": [
+        "http://creativecommons.org/licenses/by/3.0/"
+      ],
+      "source_url": "https://papyri.info/ddbdp/p.tebt;4;1104",
+      "xml_logical_path": "p.tebt/p.tebt.4/p.tebt.4.1104.xml",
+      "xml_sha256": "a882a3d0ad24b231fd3f38484035c87928f62f3563a3b5d40e6d25f4fe0854e6"
+    },
+    {
+      "attribution": "Duke Databank of Documentary Papyri / DC3",
+      "blocks": {
+        "e0:b2": "2ffe0a878b968aa2bd3fabb9414e527e59d146bee5500870d349ffc9e15d3ba2"
+      },
+      "doc_id": "p.tebt;4;1119",
+      "license_urls": [
+        "http://creativecommons.org/licenses/by/3.0/"
+      ],
+      "source_url": "https://papyri.info/ddbdp/p.tebt;4;1119",
+      "xml_logical_path": "p.tebt/p.tebt.4/p.tebt.4.1119.xml",
+      "xml_sha256": "d8fe3862aed6a13cd0f84de894a8e2bb55e6779f1fe19caf93957b53fc8b01c0"
+    },
+    {
+      "attribution": "Duke Databank of Documentary Papyri / DC3",
+      "blocks": {
+        "e0:b1": "e9465165a7c2d899901241733e2fe86b74aa6096380e6a5df8aada565fb5e996"
+      },
+      "doc_id": "p.tebt;4;1129",
+      "license_urls": [
+        "http://creativecommons.org/licenses/by/3.0/"
+      ],
+      "source_url": "https://papyri.info/ddbdp/p.tebt;4;1129",
+      "xml_logical_path": "p.tebt/p.tebt.4/p.tebt.4.1129.xml",
+      "xml_sha256": "f7b42976fd5a35735a0f2d1c1ca799d17dcc85d51b7d7f48a0590f0f56bdd7c1"
+    },
+    {
+      "attribution": "Duke Databank of Documentary Papyri / DC3",
+      "blocks": {
+        "e0:b2": "0368d14c0da4bd749eb16d24bd20cb5820477408ff4659650dbc3ce22efe7cbf"
+      },
+      "doc_id": "p.thmouis;1;1",
+      "license_urls": [
+        "http://creativecommons.org/licenses/by/3.0/"
+      ],
+      "source_url": "https://papyri.info/ddbdp/p.thmouis;1;1",
+      "xml_logical_path": "p.thmouis/p.thmouis.1/p.thmouis.1.1.xml",
+      "xml_sha256": "afe6db02512eb7aca8467d5506f8510c6d176eb51b5bb6b62ea17a0f40a3607e"
+    },
+    {
+      "attribution": "Duke Databank of Documentary Papyri / DC3",
+      "blocks": {
+        "e0:b0": "ded3c355d239fb1f8e136c63bf733ed786c535efd9f3d86a749cb0220353471d"
+      },
+      "doc_id": "p.trier;1;6",
+      "license_urls": [
+        "http://creativecommons.org/licenses/by/3.0/"
+      ],
+      "source_url": "https://papyri.info/ddbdp/p.trier;1;6",
+      "xml_logical_path": "p.trier/p.trier.1/p.trier.1.6.xml",
+      "xml_sha256": "3ede72c7d5fdf87f59904473b4bf72d76af541e221156aaa969db87622a6378f"
+    },
+    {
+      "attribution": "Duke Databank of Documentary Papyri / DC3",
+      "blocks": {
+        "e0:b11": "a59aac4afafbbf79e268f4b7fa31b62219efdf23f5fd5ad988d764f93ee3db19"
+      },
+      "doc_id": "p.vind.pher;;1",
+      "license_urls": [
+        "http://creativecommons.org/licenses/by/3.0/"
+      ],
+      "source_url": "https://papyri.info/ddbdp/p.vind.pher;;1",
+      "xml_logical_path": "p.vind.pher/p.vind.pher.1.xml",
+      "xml_sha256": "971c18e2d68485de646563f5e62818bf33522033f6295e8000bd88fa1788bbbe"
+    },
+    {
+      "attribution": "Duke Databank of Documentary Papyri / DC3",
+      "blocks": {
+        "e0:b0": "2f886f044f0e0455d16d2ccf902bbef3c2a30f0672273c44f45d9b8878d50794"
+      },
+      "doc_id": "pap.choix;;22",
+      "license_urls": [
+        "http://creativecommons.org/licenses/by/3.0/"
+      ],
+      "source_url": "https://papyri.info/ddbdp/pap.choix;;22",
+      "xml_logical_path": "pap.choix/pap.choix.22.xml",
+      "xml_sha256": "5b14d9bc80cfac02b61ba17edea94056ee5760c9e52b2eb0c5dd937dcd5eb5a7"
+    },
+    {
+      "attribution": "Duke Databank of Documentary Papyri / DC3",
+      "blocks": {
+        "e0:b1": "699741c1e125087fff0efce1258db9ed40abaff4c2f861bd130157a1803653e7"
+      },
+      "doc_id": "psi;10;1098",
+      "license_urls": [
+        "http://creativecommons.org/licenses/by/3.0/"
+      ],
+      "source_url": "https://papyri.info/ddbdp/psi;10;1098",
+      "xml_logical_path": "psi/psi.10/psi.10.1098.xml",
+      "xml_sha256": "acb0818a37b2042e89779e6f763d17c6549ef26708ea01ac530cd33f130f787c"
+    },
+    {
+      "attribution": "Duke Databank of Documentary Papyri / DC3",
+      "blocks": {
+        "e0:b0": "f04af3d66d42612a30e14fbc35ce487c92ca17e26237f94a294c370f4e9ae8d6"
+      },
+      "doc_id": "psi;15;1531",
+      "license_urls": [
+        "http://creativecommons.org/licenses/by/3.0/"
+      ],
+      "source_url": "https://papyri.info/ddbdp/psi;15;1531",
+      "xml_logical_path": "psi/psi.15/psi.15.1531.xml",
+      "xml_sha256": "0606451f2e1bf9afcd52eea2c94c4f9cfca78ce79ee5ee8b943c8d007475f3de"
+    },
+    {
+      "attribution": "Duke Databank of Documentary Papyri / DC3",
+      "blocks": {
+        "e0:b0": "51b53a23a0a1fa6a13984dc786fbe019daf794d8e9d5f17e022e73cd84233dbd"
+      },
+      "doc_id": "psi;17;1683",
+      "license_urls": [
+        "http://creativecommons.org/licenses/by/3.0/"
+      ],
+      "source_url": "https://papyri.info/ddbdp/psi;17;1683",
+      "xml_logical_path": "psi/psi.17/psi.17.1683.xml",
+      "xml_sha256": "7dc2041f9f6f3045ec1486ffd922a6deb1dfbf8c8c00bc2e2556bb72034cc389"
+    },
+    {
+      "attribution": "Duke Databank of Documentary Papyri / DC3",
+      "blocks": {
+        "e0:b0": "5a8740ab3fb11dccd4760eeb33ff4cd9b7fe639ec3b9e3021291fac788cb2326"
+      },
+      "doc_id": "psi;5;543",
+      "license_urls": [
+        "http://creativecommons.org/licenses/by/3.0/"
+      ],
+      "source_url": "https://papyri.info/ddbdp/psi;5;543",
+      "xml_logical_path": "psi/psi.5/psi.5.543.xml",
+      "xml_sha256": "c80232dce3fae7da8db6be1ada287c7e74a62f8e8d49e20c179a9217e3678ddf"
+    },
+    {
+      "attribution": "Duke Databank of Documentary Papyri / DC3",
+      "blocks": {
+        "e0:b0": "801d3d2f846b278442fd327434b75a89c71aaca259bba17341b17e640db4b343"
+      },
+      "doc_id": "psi;7;788",
+      "license_urls": [
+        "http://creativecommons.org/licenses/by/3.0/"
+      ],
+      "source_url": "https://papyri.info/ddbdp/psi;7;788",
+      "xml_logical_path": "psi/psi.7/psi.7.788.xml",
+      "xml_sha256": "f426fb1133aa5cc64a38354ece97c3c3d1b2981a05da89127057e152ee1c3444"
+    },
+    {
+      "attribution": "Duke Databank of Documentary Papyri / DC3",
+      "blocks": {
+        "e0:b0": "8c530c42f523699fb1a78df28dbc69a789f1556431a38260c38ca8274a3a36a2"
+      },
+      "doc_id": "sb;12;10911",
+      "license_urls": [
+        "http://creativecommons.org/licenses/by/3.0/"
+      ],
+      "source_url": "https://papyri.info/ddbdp/sb;12;10911",
+      "xml_logical_path": "sb/sb.12/sb.12.10911.xml",
+      "xml_sha256": "b54111cdb7e2f0ee299ae51bee584a8672cdc71426a1c52a701ce05447008011"
+    },
+    {
+      "attribution": "Duke Databank of Documentary Papyri / DC3",
+      "blocks": {
+        "e0:b0": "ae3618da355dd638e79bccd738b840f041d4cebe4c834584f7028004ef11d199"
+      },
+      "doc_id": "sb;14;11936",
+      "license_urls": [
+        "http://creativecommons.org/licenses/by/3.0/"
+      ],
+      "source_url": "https://papyri.info/ddbdp/sb;14;11936",
+      "xml_logical_path": "sb/sb.14/sb.14.11936.xml",
+      "xml_sha256": "7b8e9c6666aaad84c5a7bb139a84bc62e8717e928fe0d99f64b1d6942c610e04"
+    },
+    {
+      "attribution": "Duke Databank of Documentary Papyri / DC3",
+      "blocks": {
+        "e0:b0": "e1e7e320fd0235012c00d8827bd94e7e3958ee453550448f08a0a496e9a4c165"
+      },
+      "doc_id": "sb;14;12170",
+      "license_urls": [
+        "http://creativecommons.org/licenses/by/3.0/"
+      ],
+      "source_url": "https://papyri.info/ddbdp/sb;14;12170",
+      "xml_logical_path": "sb/sb.14/sb.14.12170.xml",
+      "xml_sha256": "1baeb162149264db934d03f0f16ffca1f66b561844e290313f6aec029256d2b9"
+    },
+    {
+      "attribution": "Duke Databank of Documentary Papyri / DC3",
+      "blocks": {
+        "e0:b2": "9036e710bf8c9617dbd360a682832ddbf546249d663632794cc95c07a90f36c7"
+      },
+      "doc_id": "sb;16;13035",
+      "license_urls": [
+        "http://creativecommons.org/licenses/by/3.0/"
+      ],
+      "source_url": "https://papyri.info/ddbdp/sb;16;13035",
+      "xml_logical_path": "sb/sb.16/sb.16.13035.xml",
+      "xml_sha256": "20845add28db624c1bad1b6f14728f46520bced394a9ebfe07843ad94eecf95b"
+    },
+    {
+      "attribution": "Duke Databank of Documentary Papyri / DC3",
+      "blocks": {
+        "e0:b0": "a96bcdbb791cb578600396df9b7b7ce29ba633ae1fe5626782faa2040f07dd95"
+      },
+      "doc_id": "sb;1;5648",
+      "license_urls": [
+        "http://creativecommons.org/licenses/by/3.0/"
+      ],
+      "source_url": "https://papyri.info/ddbdp/sb;1;5648",
+      "xml_logical_path": "sb/sb.1/sb.1.5648.xml",
+      "xml_sha256": "6ae0e8fb6d3d00103479e64c342c1b58bd10ea59f3031ae71d3cab308f4f2a9c"
+    },
+    {
+      "attribution": "Duke Databank of Documentary Papyri / DC3",
+      "blocks": {
+        "e0:b0": "cd2cd32174ea46877042f310f3503096ccd2e2caed0f64048880b67dbbf519fc"
+      },
+      "doc_id": "sb;20;14122",
+      "license_urls": [
+        "http://creativecommons.org/licenses/by/3.0/"
+      ],
+      "source_url": "https://papyri.info/ddbdp/sb;20;14122",
+      "xml_logical_path": "sb/sb.20/sb.20.14122.xml",
+      "xml_sha256": "ce755c41b60897dcc24531c8519cf9ebbeb4a8b8ed47f734ed1468a5181ff893"
+    },
+    {
+      "attribution": "Duke Databank of Documentary Papyri / DC3",
+      "blocks": {
+        "e0:b0": "25fee9fb050a97f4d7e655a242639db51cf93c9fff0c00e530956af7a4aafecc"
+      },
+      "doc_id": "sb;20;14708",
+      "license_urls": [
+        "http://creativecommons.org/licenses/by/3.0/"
+      ],
+      "source_url": "https://papyri.info/ddbdp/sb;20;14708",
+      "xml_logical_path": "sb/sb.20/sb.20.14708.xml",
+      "xml_sha256": "cb9c264f7cc628008947dfb6e8249657c4c17650acbaaa8e8eb277b583e585c5"
+    },
+    {
+      "attribution": "Duke Databank of Documentary Papyri / DC3",
+      "blocks": {
+        "e0:b6": "fc30354b81fba765d19b84cb0a521f59cee273810b392448fe76a0e5f9a8ebbd"
+      },
+      "doc_id": "sb;24;16272",
+      "license_urls": [
+        "http://creativecommons.org/licenses/by/3.0/"
+      ],
+      "source_url": "https://papyri.info/ddbdp/sb;24;16272",
+      "xml_logical_path": "sb/sb.24/sb.24.16272.xml",
+      "xml_sha256": "38139f4df125dbf60cbd848c34f2d8a30ac0daef8d97636911e1eddef78ccba0"
+    },
+    {
+      "attribution": "Duke Databank of Documentary Papyri / DC3",
+      "blocks": {
+        "e0:b0": "6a5932615f0c2d87bbbdf79a9eaa3ea42b688b72460ff3896542cd50c6e06cad"
+      },
+      "doc_id": "sb;24;16318",
+      "license_urls": [
+        "http://creativecommons.org/licenses/by/3.0/"
+      ],
+      "source_url": "https://papyri.info/ddbdp/sb;24;16318",
+      "xml_logical_path": "sb/sb.24/sb.24.16318.xml",
+      "xml_sha256": "6cb6e6e28a3ed8cea0a5108979a6817e4e756527c6bee87d8bfa164e342c19d7"
+    },
+    {
+      "attribution": "Duke Databank of Documentary Papyri / DC3",
+      "blocks": {
+        "e0:b0": "2de00636948adb2cfb6f63a4b2ee7ad9e06630e7262ad5da67cfab4b2bca9a26"
+      },
+      "doc_id": "sb;26;16460",
+      "license_urls": [
+        "http://creativecommons.org/licenses/by/3.0/"
+      ],
+      "source_url": "https://papyri.info/ddbdp/sb;26;16460",
+      "xml_logical_path": "sb/sb.26/sb.26.16460.xml",
+      "xml_sha256": "b1845a3b49aea6cbf1405e246d08f1671616bc89bf83dc9714ee3bc41eff10da"
+    },
+    {
+      "attribution": "Duke Databank of Documentary Papyri / DC3",
+      "blocks": {
+        "e0:b0": "2e26b91d5b0a4e75fb94cbfc72c658533a41fee3f6be528a52b3fec7df7e33fc"
+      },
+      "doc_id": "sb;3;6303",
+      "license_urls": [
+        "http://creativecommons.org/licenses/by/3.0/"
+      ],
+      "source_url": "https://papyri.info/ddbdp/sb;3;6303",
+      "xml_logical_path": "sb/sb.3/sb.3.6303.xml",
+      "xml_sha256": "2e80175914a4b0abeb5608d902298f7590f8117b30a3a8b648ca9b144cf67dbc"
+    },
+    {
+      "attribution": "Duke Databank of Documentary Papyri / DC3",
+      "blocks": {
+        "e0:b0": "0128a38de7b223ca547a56bf4949687d83f4d2e6061f8c406c1a1f5c5ed47f54"
+      },
+      "doc_id": "stud.pal;22;3",
+      "license_urls": [
+        "http://creativecommons.org/licenses/by/3.0/"
+      ],
+      "source_url": "https://papyri.info/ddbdp/stud.pal;22;3",
+      "xml_logical_path": "stud.pal/stud.pal.22/stud.pal.22.3.xml",
+      "xml_sha256": "bc1c858a33f9a5769800afff345d2d0f31edb522f5f1cb7c1a2e7d1cbc440ec2"
+    },
+    {
+      "attribution": "Duke Databank of Documentary Papyri / DC3",
+      "blocks": {
+        "e0:b2": "7e1eef0221293f98b072a8c6af1afa6c3547b41c9d0defe9a692d411a83bef72"
+      },
+      "doc_id": "upz;2;209",
+      "license_urls": [
+        "http://creativecommons.org/licenses/by/3.0/"
+      ],
+      "source_url": "https://papyri.info/ddbdp/upz;2;209",
+      "xml_logical_path": "upz/upz.2/upz.2.209.xml",
+      "xml_sha256": "3a9e5b5619cf76ad8ab4e12dc2b390e1d5bcd5c930501b22584395d50f13a2de"
+    }
+  ],
+  "license_checked": "2026-10-30",
+  "source_blocks_verified": true,
+  "upstream": "https://github.com/papyri/idp.data",
+  "upstream_commit": null,
+  "version_note": "Exact upstream commit not established; local XML and distributed block hashes are recorded."
+}

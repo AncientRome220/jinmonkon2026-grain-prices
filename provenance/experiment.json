@@ -1,0 +1,73 @@
+{
+  "max_validation_retries": 2,
+  "models": [
+    {
+      "execution_settings": {
+        "max_output_tokens": 16000,
+        "prompt_version": "target-grain-prompt-v2"
+      },
+      "model": "gpt-6.1-sol",
+      "provider": "openai",
+      "radius": 25
+    },
+    {
+      "execution_settings": {
+        "max_output_tokens": 16000,
+        "prompt_version": "target-grain-prompt-v2"
+      },
+      "model": "claude-fable-5-1",
+      "provider": "anthropic",
+      "radius": 25
+    },
+    {
+      "execution_settings": {
+        "gemini_thinking_level": "medium",
+        "max_output_tokens": 16000,
+        "prompt_version": "target-grain-prompt-v2"
+      },
+      "model": "gemini-3.8-flash",
+      "provider": "gemini",
+      "radius": 25
+    },
+    {
+      "execution_settings": {
+        "max_output_tokens": 16000,
+        "prompt_version": "target-grain-prompt-v2"
+      },
+      "model": "gpt-6.1-sol",
+      "provider": "openai",
+      "radius": 80
+    },
+    {
+      "execution_settings": {
+        "max_output_tokens": 16000,
+        "prompt_version": "target-grain-prompt-v2"
+      },
+      "model": "claude-fable-5-1",
+      "provider": "anthropic",
+      "radius": 80
+    },
+    {
+      "execution_settings": {
+        "gemini_thinking_level": "medium",
+        "max_output_tokens": 16000,
+        "prompt_version": "target-grain-prompt-v2"
+      },
+      "model": "gemini-3.8-flash",
+      "provider": "gemini",
+      "radius": 80
+    }
+  ],
+  "original_gold_sha256": "0573dcd2556f337ed19c86d05e43788b132b3ff1666663eb5b8a91dc44689e34",
+  "prompt_sha256": "ff5b877c3de8ae0c136a3b7f46105dcb153737984026161b886e5226eaf95686",
+  "run_id": "jmc2026-reviewed150-v2-20261028",
+  "sample_limitations": "Contains development sources; one reviewer; one execution per condition.",
+  "sampling": "Provider defaults; temperature unset",
+  "schema_sha256": "47ad9a704c69836dd417f23a852fa11717686050dd72ccc9e0cde7a2fbc23797",
+  "seed": 20261028,
+  "selection_counts": {
+    "deferred": 17,
+    "eligible_not_drawn": 33,
+    "selected": 150
+  }
+}

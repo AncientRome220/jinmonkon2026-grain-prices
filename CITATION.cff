@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "Please cite this fixed paper companion when using its code or evaluation data."
+title: "Jinmonkon 2026 grain quantity-amount pair extraction and evaluation"
+type: software
+authors:
+  - family-names: Fujimoto
+    given-names: Shunya
+version: jmc2026-v1.0.0
+date-released: 2026-10-30
+repository-code: "https://github.com/AncientRome220/jinmonkon2026-grain-prices"
+url: "https://github.com/AncientRome220/jinmonkon2026-grain-prices/releases/tag/jmc2026-v1.0.0"
+license: MIT

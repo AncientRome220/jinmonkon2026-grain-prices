@@ -1,0 +1,326 @@
+[
+  {
+    "execution_sha256": "f8edde938d26b3870c04070248476fa021e72e93068aa1c3e529be7be432f427",
+    "matches_execution": true,
+    "path": "src/grain_prices/__init__.py",
+    "release_sha256": "f8edde938d26b3870c04070248476fa021e72e93068aa1c3e529be7be432f427"
+  },
+  {
+    "execution_sha256": "41083f8a98a5fd11a5c1a23d33f5bfb344a841c2e657f4e311277140caddc72f",
+    "matches_execution": true,
+    "path": "src/grain_prices/__main__.py",
+    "release_sha256": "41083f8a98a5fd11a5c1a23d33f5bfb344a841c2e657f4e311277140caddc72f"
+  },
+  {
+    "execution_sha256": "3094729f5fc271b5085bb06b518ac7675974f1e59e50ccf27a9ddf9c4e77ed34",
+    "matches_execution": true,
+    "path": "src/grain_prices/annotation/__init__.py",
+    "release_sha256": "3094729f5fc271b5085bb06b518ac7675974f1e59e50ccf27a9ddf9c4e77ed34"
+  },
+  {
+    "execution_sha256": "b84f38188507c243b5079902700e65309d0f8c0a6e427dc864ddc7740791f3f4",
+    "matches_execution": true,
+    "path": "src/grain_prices/annotation/app.py",
+    "release_sha256": "b84f38188507c243b5079902700e65309d0f8c0a6e427dc864ddc7740791f3f4"
+  },
+  {
+    "execution_sha256": "4aad290fcbd91a592afeb6c043665fd0b3dc9feb4f13877adcb014b7754e56c2",
+    "matches_execution": true,
+    "path": "src/grain_prices/annotation/relation_app.py",
+    "release_sha256": "4aad290fcbd91a592afeb6c043665fd0b3dc9feb4f13877adcb014b7754e56c2"
+  },
+  {
+    "execution_sha256": "2edc31236720fa82c3f94e4662a5c938db67fce4059fe745eab7df7ef6c22c1f",
+    "matches_execution": true,
+    "path": "src/grain_prices/annotation/relation_autofill.py",
+    "release_sha256": "2edc31236720fa82c3f94e4662a5c938db67fce4059fe745eab7df7ef6c22c1f"
+  },
+  {
+    "execution_sha256": "0951f4046413d156ad630f932eca8b77dffb759906539dd01457bbbd75ed9ddc",
+    "matches_execution": true,
+    "path": "src/grain_prices/annotation/relation_paste.py",
+    "release_sha256": "0951f4046413d156ad630f932eca8b77dffb759906539dd01457bbbd75ed9ddc"
+  },
+  {
+    "execution_sha256": "3d009d131b512e138e89db7c0eaf4ab1cc918dff5d041a39984055d7ae1606e3",
+    "matches_execution": true,
+    "path": "src/grain_prices/annotation/relation_review.py",
+    "release_sha256": "3d009d131b512e138e89db7c0eaf4ab1cc918dff5d041a39984055d7ae1606e3"
+  },
+  {
+    "execution_sha256": "01df1fb604010c8c69df6dd247e8298209e5cc5661f4845ebb066f8e6938a913",
+    "matches_execution": true,
+    "path": "src/grain_prices/annotation/span_selection.py",
+    "release_sha256": "01df1fb604010c8c69df6dd247e8298209e5cc5661f4845ebb066f8e6938a913"
+  },
+  {
+    "execution_sha256": "b943f6604367eab054538f390532d0f86e936ab0f295315105894d6ea646c755",
+    "matches_execution": true,
+    "path": "src/grain_prices/canonical/__init__.py",
+    "release_sha256": "b943f6604367eab054538f390532d0f86e936ab0f295315105894d6ea646c755"
+  },
+  {
+    "execution_sha256": "d3740dfef45271b0d3b14a18466a8d2f63df5b86b49d85b34b39594ccf8c1a15",
+    "matches_execution": true,
+    "path": "src/grain_prices/canonical/analysis.py",
+    "release_sha256": "d3740dfef45271b0d3b14a18466a8d2f63df5b86b49d85b34b39594ccf8c1a15"
+  },
+  {
+    "execution_sha256": "b6407a17aae81480d9e4a8f4587de8ecffca303051e0bcd10a19efc7f5c2cfe1",
+    "matches_execution": true,
+    "path": "src/grain_prices/canonical/annotation.py",
+    "release_sha256": "b6407a17aae81480d9e4a8f4587de8ecffca303051e0bcd10a19efc7f5c2cfe1"
+  },
+  {
+    "execution_sha256": "24805442d6f187102f66f35537dd06e6f4a8cd4d6e507fae138aac88704f2069",
+    "matches_execution": true,
+    "path": "src/grain_prices/canonical/candidates.py",
+    "release_sha256": "24805442d6f187102f66f35537dd06e6f4a8cd4d6e507fae138aac88704f2069"
+  },
+  {
+    "execution_sha256": "cd58a540923affaa5a0245d32c036ffa3486ee000af97459b4611c32a1c802af",
+    "matches_execution": true,
+    "path": "src/grain_prices/canonical/contracts.py",
+    "release_sha256": "cd58a540923affaa5a0245d32c036ffa3486ee000af97459b4611c32a1c802af"
+  },
+  {
+    "execution_sha256": "422bae761624fe99b85a568cfe6815be8282a5545e989abbfcb91d2ae290a34d",
+    "matches_execution": true,
+    "path": "src/grain_prices/canonical/enumeration.py",
+    "release_sha256": "422bae761624fe99b85a568cfe6815be8282a5545e989abbfcb91d2ae290a34d"
+  },
+  {
+    "execution_sha256": "ef49b83d4f86a1c727e60a69098e66848bfe95029a3b0a741bf4f67cc6f219e1",
+    "matches_execution": true,
+    "path": "src/grain_prices/canonical/evaluation.py",
+    "release_sha256": "ef49b83d4f86a1c727e60a69098e66848bfe95029a3b0a741bf4f67cc6f219e1"
+  },
+  {
+    "execution_sha256": "ae9095fc029c1a95d57aaef91a14938ead5e516dc97d03f4c1dab0e1fed09563",
+    "matches_execution": true,
+    "path": "src/grain_prices/canonical/io.py",
+    "release_sha256": "ae9095fc029c1a95d57aaef91a14938ead5e516dc97d03f4c1dab0e1fed09563"
+  },
+  {
+    "execution_sha256": "c3841583adc18b2d32d94f4856a8d947433fb88d5ee28c5b4937276c3f233592",
+    "matches_execution": true,
+    "path": "src/grain_prices/canonical/materialize.py",
+    "release_sha256": "c3841583adc18b2d32d94f4856a8d947433fb88d5ee28c5b4937276c3f233592"
+  },
+  {
+    "execution_sha256": "6f6dba9f24f6f54589ecca24f78b0619c17d93bd4b95f788538555a39764a78c",
+    "matches_execution": true,
+    "path": "src/grain_prices/canonical/observations.py",
+    "release_sha256": "6f6dba9f24f6f54589ecca24f78b0619c17d93bd4b95f788538555a39764a78c"
+  },
+  {
+    "execution_sha256": "f6b3018cb2e1e204788b481ee988e2700b8d10141adae7de4756a7f8c3ea2af5",
+    "matches_execution": true,
+    "path": "src/grain_prices/canonical/options.py",
+    "release_sha256": "f6b3018cb2e1e204788b481ee988e2700b8d10141adae7de4756a7f8c3ea2af5"
+  },
+  {
+    "execution_sha256": "8291505e76236326fc97a55578f5b1cf3ce534ebb34c0a86acd7c865950f7b73",
+    "matches_execution": true,
+    "path": "src/grain_prices/canonical/provenance.py",
+    "release_sha256": "8291505e76236326fc97a55578f5b1cf3ce534ebb34c0a86acd7c865950f7b73"
+  },
+  {
+    "execution_sha256": "688e2841602d1c8a7e0641cdecfe19fb35fbf7a81fa08ff26cd3a46261cc0508",
+    "matches_execution": true,
+    "path": "src/grain_prices/canonical/rebuild.py",
+    "release_sha256": "688e2841602d1c8a7e0641cdecfe19fb35fbf7a81fa08ff26cd3a46261cc0508"
+  },
+  {
+    "execution_sha256": "0b767794989ec762d55a5e84392bd47a6d8a3f1fd0b0f336db7952b25c81fd71",
+    "matches_execution": true,
+    "path": "src/grain_prices/canonical/relation.py",
+    "release_sha256": "0b767794989ec762d55a5e84392bd47a6d8a3f1fd0b0f336db7952b25c81fd71"
+  },
+  {
+    "execution_sha256": "6a5c2a98718b698296ece95ab2a3f3495f9457ef58640dc0d3f30edd54d2ad09",
+    "matches_execution": true,
+    "path": "src/grain_prices/canonical/relation_experiment.py",
+    "release_sha256": "6a5c2a98718b698296ece95ab2a3f3495f9457ef58640dc0d3f30edd54d2ad09"
+  },
+  {
+    "execution_sha256": "9574fe9e41a26b800cd319e5cdf2720ddf47eebd48fd572d2d904349ea0401d2",
+    "matches_execution": true,
+    "path": "src/grain_prices/canonical/relation_materialize.py",
+    "release_sha256": "9574fe9e41a26b800cd319e5cdf2720ddf47eebd48fd572d2d904349ea0401d2"
+  },
+  {
+    "execution_sha256": "699702c8ee39fd769d612518fce306c0f20262ea9b69e5557bf0258dd08c47c8",
+    "matches_execution": true,
+    "path": "src/grain_prices/canonical/relation_provisional.py",
+    "release_sha256": "699702c8ee39fd769d612518fce306c0f20262ea9b69e5557bf0258dd08c47c8"
+  },
+  {
+    "execution_sha256": "c424cbd3bba2c6b1a48d4400fd36167127d73ec4145b8de3b096a7d4ed1b6eb1",
+    "matches_execution": true,
+    "path": "src/grain_prices/canonical/relation_reviewed.py",
+    "release_sha256": "c424cbd3bba2c6b1a48d4400fd36167127d73ec4145b8de3b096a7d4ed1b6eb1"
+  },
+  {
+    "execution_sha256": "65d65584009e89bddc17eb3dee2136a4a9da39f7770429d1b0dbadd1794471a6",
+    "matches_execution": true,
+    "path": "src/grain_prices/canonical/relation_windows.py",
+    "release_sha256": "65d65584009e89bddc17eb3dee2136a4a9da39f7770429d1b0dbadd1794471a6"
+  },
+  {
+    "execution_sha256": "dff202f883bc743495a344e9334450e8d43bbf1327fb1a2a799df1af453721e8",
+    "matches_execution": true,
+    "path": "src/grain_prices/canonical/relations.py",
+    "release_sha256": "dff202f883bc743495a344e9334450e8d43bbf1327fb1a2a799df1af453721e8"
+  },
+  {
+    "execution_sha256": "f397a7ec422c04370f2d72f3cd6c79a2d0844bf27e440599cb60c92a041285bb",
+    "matches_execution": true,
+    "path": "src/grain_prices/canonical/review_audit.py",
+    "release_sha256": "f397a7ec422c04370f2d72f3cd6c79a2d0844bf27e440599cb60c92a041285bb"
+  },
+  {
+    "execution_sha256": "cc29bfb488491ca4a473386357178812eec237505abe2ec5b50c48c828daf2f9",
+    "matches_execution": true,
+    "path": "src/grain_prices/canonical/spine.py",
+    "release_sha256": "cc29bfb488491ca4a473386357178812eec237505abe2ec5b50c48c828daf2f9"
+  },
+  {
+    "execution_sha256": "494e6223dc925f2a999c5faa05c1622929bc7570448c4506a1e62026a963e808",
+    "matches_execution": true,
+    "path": "src/grain_prices/canonical/text.py",
+    "release_sha256": "494e6223dc925f2a999c5faa05c1622929bc7570448c4506a1e62026a963e808"
+  },
+  {
+    "execution_sha256": "9f7c8d13b48a0f9598deab02fa1be20a6a67add127e66e02a3db9e1355013940",
+    "matches_execution": true,
+    "path": "src/grain_prices/cli.py",
+    "release_sha256": "9f7c8d13b48a0f9598deab02fa1be20a6a67add127e66e02a3db9e1355013940"
+  },
+  {
+    "execution_sha256": "dae19240068f5a3a22e525dabbe27d2b2b5f1272d45378279e57158e38c90591",
+    "matches_execution": true,
+    "path": "src/grain_prices/config.py",
+    "release_sha256": "dae19240068f5a3a22e525dabbe27d2b2b5f1272d45378279e57158e38c90591"
+  },
+  {
+    "execution_sha256": "1e913cbe15d6b86a9ab4cd548e1d7ba4b6897393d35b6c2e9df3ae7615a57003",
+    "matches_execution": true,
+    "path": "src/grain_prices/legacy/__init__.py",
+    "release_sha256": "1e913cbe15d6b86a9ab4cd548e1d7ba4b6897393d35b6c2e9df3ae7615a57003"
+  },
+  {
+    "execution_sha256": "87bab2cf33ff5b67b83f22698e442481ece6e14beea9060382fd45af596858a5",
+    "matches_execution": true,
+    "path": "src/grain_prices/legacy/stage2.py",
+    "release_sha256": "87bab2cf33ff5b67b83f22698e442481ece6e14beea9060382fd45af596858a5"
+  },
+  {
+    "execution_sha256": "7b53f9305306acacc20a9db700c66eb9a3f2cc38c5471696fdbb49f264f46c70",
+    "matches_execution": true,
+    "path": "src/grain_prices/legacy/stage2c.py",
+    "release_sha256": "7b53f9305306acacc20a9db700c66eb9a3f2cc38c5471696fdbb49f264f46c70"
+  },
+  {
+    "execution_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "matches_execution": true,
+    "path": "src/grain_prices/llm/__init__.py",
+    "release_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "execution_sha256": "c916d7a38fcc2e906c9d7c45bc2892f00bc5cfa51381b2a117aca5616350135f",
+    "matches_execution": true,
+    "path": "src/grain_prices/llm/canonical_runner.py",
+    "release_sha256": "c916d7a38fcc2e906c9d7c45bc2892f00bc5cfa51381b2a117aca5616350135f"
+  },
+  {
+    "execution_sha256": "d11d021bfbc0e712a67a54ed7073e804a9273f4acb2b189f8bb3c86caa30429a",
+    "matches_execution": true,
+    "path": "src/grain_prices/llm/clients.py",
+    "release_sha256": "d11d021bfbc0e712a67a54ed7073e804a9273f4acb2b189f8bb3c86caa30429a"
+  },
+  {
+    "execution_sha256": "cf2f090fa7de5e0a7af72232c435acadc9defed502ad056298d2707d165fc1f3",
+    "matches_execution": true,
+    "path": "src/grain_prices/llm/prompt_loader.py",
+    "release_sha256": "cf2f090fa7de5e0a7af72232c435acadc9defed502ad056298d2707d165fc1f3"
+  },
+  {
+    "execution_sha256": "e2dd576b9fbc79b4fd757398212ab0cbcb410a8ed0f09c54b5b7adaef0a23fdb",
+    "matches_execution": true,
+    "path": "src/grain_prices/llm/relation_runner.py",
+    "release_sha256": "e2dd576b9fbc79b4fd757398212ab0cbcb410a8ed0f09c54b5b7adaef0a23fdb"
+  },
+  {
+    "execution_sha256": "a78a470e8ea5ba5228fd0697f4ef255694a12df3b75c8a68d68521b04a1dba51",
+    "matches_execution": true,
+    "path": "src/grain_prices/pipeline_shared.py",
+    "release_sha256": "a78a470e8ea5ba5228fd0697f4ef255694a12df3b75c8a68d68521b04a1dba51"
+  },
+  {
+    "execution_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "matches_execution": true,
+    "path": "src/grain_prices/preprocessing/__init__.py",
+    "release_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "execution_sha256": "42e521cedbc6633130604f80dc96e4d90c3f28965fcd7124a1eb7ef2d713b948",
+    "matches_execution": true,
+    "path": "src/grain_prices/preprocessing/build_assignment_subset.py",
+    "release_sha256": "42e521cedbc6633130604f80dc96e4d90c3f28965fcd7124a1eb7ef2d713b948"
+  },
+  {
+    "execution_sha256": "e439587f7e55bc91bf98d6540767924b5aa669ecade45eb5494a80575834106a",
+    "matches_execution": true,
+    "path": "src/grain_prices/preprocessing/build_windows.py",
+    "release_sha256": "e439587f7e55bc91bf98d6540767924b5aa669ecade45eb5494a80575834106a"
+  },
+  {
+    "execution_sha256": "da45cc3173c299d014a2fec6d7513c7b8f1ce2080a03ab18c7890d1fdd4003ac",
+    "matches_execution": true,
+    "path": "src/grain_prices/preprocessing/hgv_extract_full.py",
+    "release_sha256": "da45cc3173c299d014a2fec6d7513c7b8f1ce2080a03ab18c7890d1fdd4003ac"
+  },
+  {
+    "execution_sha256": "2dff6adc22cda725663c93d8e623639943881ed587217c9105d021bb4fc08e1a",
+    "matches_execution": true,
+    "path": "src/grain_prices/preprocessing/parse_xml.py",
+    "release_sha256": "2dff6adc22cda725663c93d8e623639943881ed587217c9105d021bb4fc08e1a"
+  },
+  {
+    "execution_sha256": "26748a4030bfabd4f745d359c253f30ab774ebb38841647d04b676b4ade6a427",
+    "matches_execution": true,
+    "path": "src/grain_prices/prompts/__init__.py",
+    "release_sha256": "26748a4030bfabd4f745d359c253f30ab774ebb38841647d04b676b4ade6a427"
+  },
+  {
+    "execution_sha256": null,
+    "matches_execution": null,
+    "path": "src/grain_prices/prompts/price_adjudication_canonical_v13_1.md",
+    "release_sha256": "1d3eb680c31f37ffb8a9a57e74eb71be79806198279579d58a3a67b34d82c50f"
+  },
+  {
+    "execution_sha256": null,
+    "matches_execution": null,
+    "path": "src/grain_prices/prompts/price_adjudication_canonical_v13_1_options_v2.md",
+    "release_sha256": "71cd7a337a0e34a3be72548a688210d2c887a821317dfd587e22494224367b08"
+  },
+  {
+    "execution_sha256": null,
+    "matches_execution": null,
+    "path": "src/grain_prices/prompts/target_grain_relations_v1.md",
+    "release_sha256": "34af5ca648125e41f5eeef82f99065df58cdbe128a5b914053d1e5a699d23e73"
+  },
+  {
+    "execution_sha256": null,
+    "matches_execution": null,
+    "path": "src/grain_prices/prompts/target_grain_relations_v2.md",
+    "release_sha256": "ff5b877c3de8ae0c136a3b7f46105dcb153737984026161b886e5226eaf95686"
+  },
+  {
+    "execution_sha256": "7892571c8970f34b4b0b5192fa2cf0843ee5f182f47b8e861a513e297bf61e53",
+    "matches_execution": true,
+    "path": "src/grain_prices/snapshot.py",
+    "release_sha256": "7892571c8970f34b4b0b5192fa2cf0843ee5f182f47b8e861a513e297bf61e53"
+  }
+]

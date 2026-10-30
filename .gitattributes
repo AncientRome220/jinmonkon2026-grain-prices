@@ -1,0 +1,2 @@
+# Preserve the audited bytes, including code copied from the execution record.
+* -text
